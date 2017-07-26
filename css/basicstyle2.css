@@ -1,0 +1,168 @@
+<style> 
+@font-face {
+    font-family: 'Kumar One'
+}
+
+body {
+    /*background-image: url(http://www.htmldog.com/examples/images/circle.png),
+    url(http://www.htmldog.com/examples/images/bg.gif);*/
+    background: -webkit-radial-gradient(circle closest-corner, yellow, green);
+    background: radial-gradient(circle closest-corner, yellow, green);
+    font-family: 'Kumar One', helvetica, sans-serif;
+    font-size: 14px;
+    color: black;
+    margin: 20px;
+    padding: 0;
+}
+
+/* This is a comment, by the way */
+
+abbr {
+    text-decoration: underline wavy red;
+}
+
+p:nth-child(2n+1) {
+    font: oblique bold 1.2px Roboto;
+    background-color: aqua;
+}
+
+p::first-letter{
+    color:green;
+    font-size: 20px;
+}
+
+p::first-line{
+    font-weight: bolder;
+}
+
+h1 {
+    color: #ffc;
+    background-color: #900;
+    font-size: 2em;
+    margin: 0;
+    margin-bottom: 7px;
+    padding: 4px;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 0.5em;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5em;
+    border-bottom-color: #c00;
+    border-radius: 20px 12px 8px 9px;
+}
+
+h2 {
+    border: 10px #089aaa solid;
+    background-color: #090;
+    font-size: 1.5em;
+    margin: 0;
+    padding: 2px;
+    padding-left: 14px;
+    box-shadow: 2px 2px 2px 4px rgb(31,254,67);
+    transform: rotate(-11deg) scale(0.5);
+
+}
+
+h3 {
+    color: #999;
+    font-size: 1.25em;
+}
+
+img {
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #ccc;
+}
+
+a:link {
+    transition: all 0.5s ease-in 0s;
+    text-decoration: underline;
+    color: blue;
+}
+
+a:hover {
+    color: purple;
+    background-color: yellow;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+li {
+    color: #900;
+    font-style: italic;
+}
+
+table {
+    background-color: #ccc;
+}
+
+figcaption {
+    color: #ccc;
+}
+
+#main_nav,
+.scissors * {
+    margin: 20px 10px 35px 40px;
+    background: #cac004;
+    color: orange;
+    display: inline;
+}
+
+input[type=radio]:hover {
+    padding: 25px 10px 14px 30px;
+}
+
+input[type=search] {
+    background: url(https://openclipart.org/download/253004/A-simple-magnifying-glass-Wachin.svg) no-repeat right;
+}
+
+input[type=email]:invalid, input[type=number]:invalid {
+    background: red;
+}
+
+input[type=email]:valid, input[type=number]:valid {
+    background: green;
+}
+
+li::after {
+    content: "POW! ";
+    background: red;
+    color: #fc0;
+}
+
+/*#navigation {
+    position: relative;
+    top: 0px;
+    left: 200px;
+    width: 200px;
+} */
+
+#navigation {
+    float:right;
+}
+
+#content {
+    margin-left: 200px;
+    clear: both; /* this will not allow floated objects to be inside either the left or right sides*/
+}
+
+.alternative {
+    background-color: yellow;
+}
+
+#genus_examples > li {
+    border: 1px solid red;
+}
+
+h2 + p {
+    font-weight: bolder;
+}
+
+abbr[title] { /* we don't actually have any titles that are abbreviations in the page */
+    border-bottom: 1px dashed #ccc;
+}
+
+</style>
