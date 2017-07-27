@@ -3,13 +3,13 @@ layout: default
 title: Justin Tran's Ramblings
 ---
 <h1>{{ page.title ]]</h1>
-<ul class="blogposts">
-    {% for post in site.blogposts %}
+<ul class="posts">
+    {% for post in site.posts %}
         <li>
             <span>
                 {{ page.date|date: %B %d, %Y }}
             </span>
-            <a href="{{ post.url }}" title="{{post.title}}"> 
+            <a href="{{ post.url }}" title="{{ post.title }}"> 
                 {{post.title}} 
             </a>
         </li>
