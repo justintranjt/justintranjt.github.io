@@ -3,4 +3,8 @@
     font-family: 'Inconsolata';
 }
 
+img {
+    max-width: 100%;
+}
+
 </style>
