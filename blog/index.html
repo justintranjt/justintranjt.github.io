@@ -7,7 +7,7 @@ title: Justin Tran's Ramblings
      {% for post in site.posts %}
          <li>
              <span>
-                 {{ page.date|date: %B %d, %Y }}
+                 {{ post.date|date: %B %d, %Y }}
              </span>
              <a href="{{ post.url }}" title="{{ post.title }}"> 
                 {{ post.title }} 
