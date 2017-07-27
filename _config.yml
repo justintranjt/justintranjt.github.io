@@ -1,3 +1,4 @@
 name: Justin Tran
 description: Justin Tran's Blog Posts and Projects
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
