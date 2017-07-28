@@ -24,10 +24,12 @@ body, div {
     justify-content: space-around;
 }
 
-img {
+img, em {
     display: block;
+    margin-left: auto;
+    margin-right: auto;
     height: auto;
-    max-width: 30%;
+    max-width: 45%;
 }
 
 ul {
@@ -38,7 +40,7 @@ ul {
 }
 
 .contactnav {
-    display: inline;
+    float: left;
 }
 
 </style>
