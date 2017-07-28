@@ -7,8 +7,12 @@
     font-family: 'Inconsolata';
 }
 
+a {
+    text-decoration: none;
+}
+
 a:hover {
-    background-color: #ff8000;
+    color: #ff8000;
     text-decoration: underline;
 }
 
