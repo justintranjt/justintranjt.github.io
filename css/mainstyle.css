@@ -39,7 +39,8 @@ ul {
   text-align: center;
 }
 
-ul.contactnav {
+.contactnav {
+    display: inline;
     color: #ff8000;
 }
 
