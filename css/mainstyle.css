@@ -7,6 +7,11 @@
     font-family: 'Inconsolata';
 }
 
+a:hover {
+    background-color: #ff8000;
+    text-decoration: underline;
+}
+
 body, div {
     display: flex;
     flex-direction: column;
