@@ -25,7 +25,9 @@ body, div {
 }
 
 img {
-    max-width: 100%;
+    display: block;
+    height: auto;
+    max-width: 60%;
 }
 
 ul {
