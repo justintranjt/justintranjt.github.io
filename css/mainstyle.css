@@ -38,9 +38,10 @@ ul {
     text-align: center;
 }
 
-.contactnav {
+.contactnav li{
     display: inline;
     padding-right: 20px;
+    pading-right: 20px;
 }
 
 </style>
