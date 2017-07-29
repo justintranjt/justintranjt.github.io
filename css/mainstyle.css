@@ -12,7 +12,7 @@ html {
 }
 
 .namebrand {
-    color: #707070;
+    color: #ffc300;
     font-weight: bold;
     font-size: 1.4em;  
 }
@@ -52,7 +52,7 @@ ul {
 
 .contactnav {
     padding: 10px;
-    border-top: 1px dotted color: #707070;
+    border-top: 1px dotted #ffc300;
 }
 
 .contactnav li {
