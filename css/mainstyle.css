@@ -7,13 +7,13 @@
     font-family: 'Inconsolata';
 }
 
-a:link, a:visited {
+a:link, {
     color: #707070;
     text-decoration: none;
 }
 
 a:hover {
-    color: #ff8000;
+    color: #ffc300;
     text-decoration: underline;
 }
 
