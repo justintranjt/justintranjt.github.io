@@ -4,13 +4,13 @@ title: Justin Tran's Coding Projects
 ---
 <h1>{{ page.title }}</h1>
 <ul class="projects">
-     {% for project in site.projects %}
+     {% for post in site.codeprojects %}
          <li>
              <span>
-                 {{ project.date|date: "%B %d, %Y" }}
+                 {{ post.date|date: "%B %d, %Y" }}
              </span>
-             <a href="{{ project.url }}" title="{{ project.title }}"> 
-                {{ project.title }} 
+             <a href="{{ post.url }}" title="{{ post.title }}"> 
+                {{ post.title }} 
              </a>
          </li>
      {% endfor %}
