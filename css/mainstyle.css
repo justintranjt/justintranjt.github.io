@@ -7,8 +7,9 @@
     font-family: 'Inconsolata';
 }
 
-.namebrand a {
-    font-size: 1.5em;    
+.namebrand {
+    font-weight: bold;
+    font-size: 1.4em;    
 }
 
 a:link, a:visited {
@@ -45,7 +46,7 @@ ul {
 }
 
 .contactnav {
-    padding: 20px;
+    padding: 10px;
     border-bottom: 1px dotted grey;
 }
 
