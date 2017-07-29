@@ -1,4 +1,8 @@
 <style>
+html {
+    width: 65%;
+}
+
 @font-face {
     font-family: 'Inconsolata';
 }
@@ -49,7 +53,6 @@ ul {
 .contactnav {
     padding: 10px;
     border-top: 1px dotted #ffc300;
-    max-width: 65%;
 }
 
 .contactnav li {
