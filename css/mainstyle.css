@@ -7,6 +7,10 @@
     font-family: 'Inconsolata';
 }
 
+.namebrand a {
+    font-size: 1.5em;    
+}
+
 a:link, a:visited {
     color: #707070;
     text-decoration: none;
