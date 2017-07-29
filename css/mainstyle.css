@@ -17,11 +17,12 @@ a:hover {
     text-decoration: underline;
 }
 
-div {
+.container {
+    align-items: center;
     background-color: #e6ecf0;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    padding-bottom: 10px;
 }
 
 img, em {
