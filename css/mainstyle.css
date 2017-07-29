@@ -1,6 +1,8 @@
 <style>
 html {
-    max-width: 60%;
+    width: 65%;
+    text-align: center;
+	margin: auto;
 }
 
 @font-face {
@@ -53,6 +55,7 @@ ul {
 .contactnav {
     padding: 10px;
     border-top: 1px dotted #ffc300;
+    max-width: 70%;
 }
 
 .contactnav li {
