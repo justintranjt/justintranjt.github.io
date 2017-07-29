@@ -7,7 +7,7 @@
     font-family: 'Inconsolata';
 }
 
-a:link, {
+a:link, a:visited {
     color: #707070;
     text-decoration: none;
 }
