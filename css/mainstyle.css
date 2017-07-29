@@ -1,4 +1,8 @@
 <style>
+html {
+    width: 800px;
+}
+
 @font-face {
     font-family: 'Inconsolata';
 }
@@ -8,8 +12,9 @@
 }
 
 .namebrand {
+    color: #707070;
     font-weight: bold;
-    font-size: 1.4em;    
+    font-size: 1.4em;  
 }
 
 a:link, a:visited {
@@ -47,7 +52,7 @@ ul {
 
 .contactnav {
     padding: 10px;
-    border-bottom: 1px dotted grey;
+    border-top: 1px dotted color: #707070;
 }
 
 .contactnav li {
