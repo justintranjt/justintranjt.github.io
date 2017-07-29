@@ -11,12 +11,6 @@ html {
     font-family: 'Inconsolata';
 }
 
-.namebrand {
-    color: #ffc300;
-    font-weight: bold;
-    font-size: 1.4em;  
-}
-
 a:link, a:visited {
     color: #707070;
     text-decoration: none;
@@ -25,6 +19,12 @@ a:link, a:visited {
 a:hover {
     color: #ffc300;
     text-decoration: underline;
+}
+
+.namebrand {
+    color: #ffc300;
+    font-weight: bold;
+    font-size: 1.4em;  
 }
 
 .container {
