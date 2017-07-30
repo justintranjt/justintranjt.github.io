@@ -1,3 +1,5 @@
 name: Justin Tran
 description: Justin Tran's Blog Posts and Projects
 markdown: kramdown
+collections:
+  - projects
