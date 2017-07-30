@@ -62,4 +62,9 @@ ul {
     border: 1px solid #ffc300;
 }
 
+.project-thumb {
+    float: right
+    width: 20%;
+}
+
 </style>
