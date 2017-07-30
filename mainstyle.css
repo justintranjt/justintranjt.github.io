@@ -29,14 +29,14 @@ a:hover {
     text-decoration: underline;
 }
 
-.namebrand {
+a.namebrand {
   z-index: 100;
   position: absolute;
   left: 40%;
   top: 40%;
   color: #ffc300;
   font-weight: bold;
-  font-size: 3em; 
+  font-size: 3.5em; 
 }
 
 .container {
@@ -64,11 +64,14 @@ ul {
 }
 
 .contactnav {
+    z-index: 100;
+    position: absolute;
     padding: 10px;
     border-top: 1px dotted #ffc300;
 }
 
 .contactnav li {
+    color: #ffc300;
     display: inline;
     padding: 20px;
 }
