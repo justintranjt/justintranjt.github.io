@@ -7,6 +7,25 @@
     font-family: 'Inconsolata';
 }
 
+.banner {
+    height: 357px;
+    width: 1503px;
+    position: relative;
+}
+
+.bannerpic {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.namebrand {
+  z-index: 100;
+  position: absolute;
+  left: 150px;
+  top: 350px;
+}
+
 a:link, a:visited {
     color: #707070;
     text-decoration: none;
