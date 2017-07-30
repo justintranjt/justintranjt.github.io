@@ -3,14 +3,8 @@ layout: default
 title: JT - Coding Projects
 ---
 <h1>Coding Projects</h1>
-<ul class="projects">
-    <li class="java">
-        <h1>Java</h1>
-        <a href="./2017/07/29/avogadro-estimation.html" title="Avogadro Estimation"> 
-            Avogadro Estimation
-        </a>
-    </li>
-        <h1>R</h1>
-        <li class="R">
-    </li>
+{% for project in site.projects %}
+    <div class="project">
+        <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
+    </div>
 </ul>
