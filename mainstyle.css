@@ -44,7 +44,8 @@ a.namebrand {
 
 .container {
     align-items: center;
-    background-color: #e6ecf0;
+    background-color: #363636;
+    color: #ddd;
     display: flex;
     flex-direction: column;
     max-width: 65%;
@@ -69,13 +70,12 @@ ul {
 .contactnav {
     z-index: 100;
     position: absolute;
-    border-top: 1px dotted #ffc300;
+    border-top: 3px dotted #ffc300;
     left: 540px;
     top: 330px;
 }
 
 .contactnav li, .contact li {
-    color: #ffc300;
     display: inline;
     padding: 20px;
     font-size: 1.5em
