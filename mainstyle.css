@@ -53,6 +53,10 @@ a.namebrand {
     padding-bottom: 10px;
 }
 
+h1 {
+    color: #ffc300;
+}
+
 img, em {
     display: block;
     margin: 0 auto;
