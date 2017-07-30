@@ -5,8 +5,8 @@ title: JT - Coding Projects
 <h1>Coding Projects</h1>
 {% for project in site.projects %}
     <div class="project">
-        <img class="project-thumb" src="{{ project.image }}"><img>
+        <img class="project-thumb" src="{{ project.image }}"></img>
         <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
-        <p>{{ project.description }}<p>
+        <p>{{ project.description }}</p>
     </div>
 {% endfor %}
