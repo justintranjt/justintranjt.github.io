@@ -22,8 +22,11 @@
 .namebrand {
   z-index: 100;
   position: absolute;
-  left: 150px;
-  top: 350px;
+  left: 50%
+  top: 50%
+  color: #ffc300;
+  font-weight: bold;
+  font-size: 3em; 
 }
 
 a:link, a:visited {
@@ -34,13 +37,6 @@ a:link, a:visited {
 a:hover {
     color: #ffc300;
     text-decoration: underline;
-}
-
-a.namebrand {
-    color: #ffc300;
-    font-weight: bold;
-    font-size: 1.4em; 
-    padding-left: 20%;
 }
 
 .container {
