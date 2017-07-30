@@ -24,12 +24,11 @@ body {
 }
 
 a:link, a:visited {
-    color: #707070;
+    color: #ffc300;
     text-decoration: none;
 }
 
 a:hover {
-    color: #ffc300;
     text-decoration: underline;
 }
 
@@ -70,14 +69,16 @@ ul {
 .contactnav {
     z-index: 100;
     position: absolute;
-    padding: 10px;
     border-top: 1px dotted #ffc300;
+    left: 540px;
+    top: 330px;
 }
 
-.contactnav li, contact li {
+.contactnav li, .contact li {
     color: #ffc300;
     display: inline;
     padding: 20px;
+    font-size: 1.5em
 }
 
 .project {
