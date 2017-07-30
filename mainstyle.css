@@ -7,6 +7,10 @@
     font-family: 'Inconsolata';
 }
 
+body {
+    background-color: #202020;
+}
+
 .banner {
     height: 357px;
     width: 1503px;
