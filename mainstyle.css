@@ -48,7 +48,7 @@ a.namebrand {
     color: #ddd;
     display: flex;
     flex-direction: column;
-    max-width: 65%;
+    max-width: 80%;
     margin: 0 auto;
     padding-bottom: 10px;
 }
