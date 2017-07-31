@@ -15,12 +15,9 @@ body {
     height: 357px;
     width: 1503px;
     position: relative;
-}
-
-.bannerpic {
-    position: absolute;
-    left: 0;
-    top: 0;
+    background-image: url("banner.png");
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 a:link, a:visited {
