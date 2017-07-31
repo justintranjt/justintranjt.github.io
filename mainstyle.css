@@ -72,11 +72,7 @@ ul {
 }
 
 .contactnav {
-    z-index: 100;
-    position: absolute;
-    border-top: 3px dotted #ffc300;
-    left: 540px;
-    top: 330px;
+    border-top: 1px solid #ffc300;
 }
 
 .contactnav li, .contact li {
