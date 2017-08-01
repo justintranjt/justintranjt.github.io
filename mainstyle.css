@@ -58,7 +58,6 @@ a.namebrand {
 .container {
     align-items: center;
     background-color: #363636;
-	border: 1px solid #ffc300;
     color: #ddd;
     display: flex;
     flex-direction: column;
@@ -85,11 +84,11 @@ ul {
     text-align: center;
 }
 
-.contact {
+.contactnav, .contact {
     border-top: 1px solid #ffc300;
 }
 
-.contact li {
+.contactnav, .contact li {
     display: inline;
     padding: 20px;
     font-size: 1.5em;
