@@ -8,4 +8,3 @@ collections:
     
   research:
     output: true
-    permalink: /research/:path/
