@@ -48,7 +48,7 @@ a.namebrand {
 
 .container {
     align-items: center;
-    background-color: rgba(46, 46, 46, 0.9);
+    background-color: #424242;
     color: #ddd;
     display: flex;
     flex-direction: column;
