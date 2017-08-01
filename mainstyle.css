@@ -38,7 +38,7 @@ a.namebrand {
   position: absolute;
   left: 36%;
   top: 40%;
-  color: #ffc300;
+  color: white;
   font-weight: bold;
   font-size: 5vw; 
 }
@@ -54,7 +54,7 @@ a.namebrand {
 .container {
     align-items: center;
     background-color: #363636;
-    color: #ddd;
+    color: white;
     display: flex;
     flex-direction: column;
     max-width: 80%;
@@ -63,7 +63,7 @@ a.namebrand {
 }
 
 h1 {
-    color: #ffc300;
+    color: #ddd;
 }
 
 img, em {
