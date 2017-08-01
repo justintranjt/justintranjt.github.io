@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: #202020;
+    background-color: #2e2e2e;
 }
 
 .banner {
@@ -48,7 +48,7 @@ a.namebrand {
 
 .container {
     align-items: center;
-    background-color: #363636;
+    background-color: #2e2e2e;
     color: #ddd;
     display: flex;
     flex-direction: column;
