@@ -25,12 +25,12 @@ body {
 }
 
 a:link, a:visited {
-    color: #ffc300;
+    color: #fff195;
     text-decoration: none;
 }
 
 a:hover {
-    text-decoration: underline;
+    color: #ffc300;
 }
 
 a.namebrand {
