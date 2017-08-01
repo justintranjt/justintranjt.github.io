@@ -24,13 +24,13 @@ body {
     opacity: 0.65;
 }
 
-a:link, a:visited {
+a:link, a:visited, a.namebrand {
     color: white;
-    -webkit-transition: color 1s;
-    -moz-transition:    color 1s;
-    -ms-transition:     color 1s;
-    -o-transition:      color 1s;
-    transition:         color 1s;
+    -webkit-transition: color 0.5s;
+    -moz-transition:    color 0.5s;
+    -ms-transition:     color 0.5s;
+    -o-transition:      color 0.5s;
+    transition:         color 0.5s;
     text-decoration: none;
 }
 
@@ -43,7 +43,6 @@ a.namebrand {
   position: absolute;
   left: 36%;
   top: 40%;
-  color: white;
   font-weight: bold;
   font-size: 5vw; 
 }
