@@ -42,7 +42,7 @@ a.namebrand {
   font-size: 3.5vw; 
 }
 
-@media screen and (max-resolution: 400dpi) {
+@media screen and (min-resolution: 400dpi) {
     a.namebrand {
         top: 60%;
     }
