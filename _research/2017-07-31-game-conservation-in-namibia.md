@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Game Conservation In Namibia"
 date: 2017-07-31
