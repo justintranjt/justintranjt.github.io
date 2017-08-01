@@ -89,7 +89,7 @@ ul {
     font-size: 1.5em
 }
 
-.project {
+.project, .research {
     border: 1px solid #ffc300;
 }
 
