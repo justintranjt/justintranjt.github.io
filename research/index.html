@@ -2,10 +2,11 @@
 layout: default
 title: JT - Research
 ---
-<h1>Research</h1>
-{% for research in site.research %}
-    <div class="research">
-        <h2><a href="{{ research.url }}">{{ research.title }}</a></h2>
-        <p>{{ research.description }}</p>
-    </div>
+{% for resrch in site.research %}
+    <ul class="resrch">
+        <li>
+            <h2><a href="{{ resrch.url }}">{{ resrch.title }}</a></h2>
+            <p>{{ resrch.description }}</p>
+        </li>
+    </ul>
 {% endfor %}
