@@ -42,6 +42,13 @@ a.namebrand {
   font-size: 3.5vw; 
 }
 
+@media screen and (max-width: 480px) {
+    a.namebrand {
+        top: 60%;
+    }
+}
+
+
 .container {
     align-items: center;
     background-color: #363636;
