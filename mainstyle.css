@@ -94,9 +94,8 @@ ul {
 }
 
 .project-thumb {
-    float: right;
     width: 25%;
-    border: 3px solid #ffc300
+    border: 1px solid #ffc300
 }
 
 </style>
