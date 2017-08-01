@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Avogadro Estimation (Java)"
+title: "Namibia Estimation (Java)"
 date: 2017-07-29
 description: Estimates the Avogadro Constant by analyzing Brownian motion in polystyrene beads suspended in water
 image: /projects/frame00000.jpg
