@@ -26,11 +26,11 @@ body {
 
 a:link, a:visited, a.namebrand {
     color: white;
-    -webkit-transition: color 0.5s;
-    -moz-transition:    color 0.5s;
-    -ms-transition:     color 0.5s;
-    -o-transition:      color 0.5s;
-    transition:         color 0.5s;
+    -webkit-transition: color 0.25s;
+    -moz-transition:    color 0.25s;
+    -ms-transition:     color 0.25s;
+    -o-transition:      color 0.25s;
+    transition:         color 0.25s;
     text-decoration: none;
 }
 
@@ -84,7 +84,7 @@ ul {
     text-align: center;
 }
 
-.contactnav {
+.contactnav, .contact {
     border-top: 1px solid #ffc300;
 }
 
