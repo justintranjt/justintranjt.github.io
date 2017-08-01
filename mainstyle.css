@@ -85,14 +85,14 @@ ul {
     text-align: center;
 }
 
-.contactnav, .contact {
+.contact {
     border-top: 1px solid #ffc300;
 }
 
 .contact li {
     display: inline;
     padding: 20px;
-    font-size: 1.5em
+    font-size: 1.5em;
 }
 
 .project, .research {
@@ -101,7 +101,7 @@ ul {
 
 .project-thumb {
     width: 25%;
-    border: 1px solid #ffc300
+    border: 1px solid #ffc300;
 }
 
 </style>
