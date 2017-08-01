@@ -2,6 +2,10 @@ name: Justin Tran
 description: Justin Tran's Blog Posts and Projects
 markdown: kramdown
 collections:
+  posts:
+    output: true
+    permalink: /blog/:path/
+  
   projects:
     output: true
     permalink: /projects/:path/
