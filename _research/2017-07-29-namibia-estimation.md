@@ -1,8 +1,7 @@
----
 layout: post
-title: "Avogadro Estimation (Java)"
-date: 2017-07-29
-description: Estimates the Avogadro Constant by analyzing Brownian motion in polystyrene beads suspended in water
+title: "Game Conservation In Namibia"
+date: 2017-07-31
+description: The Use of Colonial Conservation Efforts in Etosha and Other Game Reserves
+to Damage Indigenous Namibians
 ---
-
-We'll start off with the idea of "Brownian Motion", a physical phenomenon
+<embed src="justintranjt.github.io/_research/Justin Tran - Game Conservation Research Paper.pdf" width="500" height="375" type="application/pdf">
