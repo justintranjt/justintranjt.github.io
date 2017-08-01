@@ -88,7 +88,7 @@ ul {
     border-top: 1px solid #ffc300;
 }
 
-.contactnav, .contact li {
+.contactnav li, .contact li {
     display: inline;
     padding: 20px;
     font-size: 1.5em;
