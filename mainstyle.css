@@ -96,6 +96,10 @@ ul {
     font-size: 1.5em;
 }
 
+.contactnav a, .contact a {
+	color: white;
+}
+
 .meta {
 	margin-top: 5px;
 	text-align: center;
