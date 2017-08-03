@@ -93,6 +93,11 @@ ul {
     font-size: 1.5em;
 }
 
+.meta {
+	line-height: 0;
+	margin-height: 5px;
+}
+
 .project, .research {
     border: 1px solid #ffc300;
 }
