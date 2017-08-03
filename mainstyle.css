@@ -50,7 +50,7 @@ a.namebrand {
 .container {
     align-items: center;
     background-color: #424242;
-    color: #ddd;
+    color: white;
     display: flex;
     flex-direction: column;
 	font-size: large;
