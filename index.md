@@ -6,6 +6,7 @@ title: JT - Home Page
 <p class="meta">July 26, 2017 12:29 PM | By Justin Tran</p>
 Welcome to my page! I'm a computer scientist by education, a Princetonian at the moment, and an Oregonian from the day I was born.
 ![]( /Sossusvlei, Namibia.jpg )*On top of the Big Daddy Sand Dune, Sossusvlei, Namibia*
+
 Ever since I picked up my first Game Boy Color as a young child, I have always loved gaming and technology. Like many individuals my age, I not only continued to enjoy gaming, but used it as an inspiration to throw myself fully into programming. Today, I hope to use that passion I first gained from gaming in my own programming as I continue to explore the many odd categories of the world that interest me.
 
 Whether those interests are related to approximating Avogadro's Number using my coding chops or investigating the effects of nature conservation in Namibia, all of those explorations can be found on this website.
