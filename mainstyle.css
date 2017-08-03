@@ -94,8 +94,8 @@ ul {
 }
 
 .meta {
-	line-height: 0;
 	margin-height: 5px;
+	text-align: center;
 }
 
 .project, .research {
