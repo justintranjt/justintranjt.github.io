@@ -34,10 +34,6 @@ a:link, a:visited, a.namebrand {
     text-decoration: none;
 }
 
-a:hover {
-    color: #ffc300;
-}
-
 a.namebrand {
   z-index: 100;
   position: absolute;
@@ -97,6 +93,10 @@ ul {
 
 .contactnav a, .contact a {
 	color: white;
+}
+
+.contactnav a:hover, .contact a:hover {
+	color: #ffc300;
 }
 
 .meta {
