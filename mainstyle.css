@@ -60,6 +60,10 @@ a.namebrand {
     padding-bottom: 10px;
 }
 
+.container a:link, a:visited{
+	color: #ffc300;
+}
+
 h1 {
 	letter-spacing: 2px;
 }
