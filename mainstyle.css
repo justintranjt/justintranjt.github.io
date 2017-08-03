@@ -1,10 +1,10 @@
 <style>
 @font-face {
-    font-family: 'Lato';
+    font-family: 'Inconsolata';
 }
 
 *{
-    font-family: 'Lato';
+    font-family: 'Inconsolata';
 }
 
 body {
@@ -62,6 +62,7 @@ a.namebrand {
 
 h1 {
     color: white;
+	font-spacing: 2px;
 }
 
 img, em {
