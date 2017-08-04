@@ -7,10 +7,10 @@ date: 2017-08-04
 
 When the iPhone 7 was announced on September 7, 2016, the greatest outrage did not surround the lack of improvement from the previous iteration's
 internal hardware or even the common complaints about the [slowdown of past generations of iPhones after major software updates](https://www.nytimes.com/2014/07/27/upshot/hold-the-phone-a-big-data-conundrum.html?_r=1).
-Rather, the iPhone 7 became the [*iPhone Without a Headphone Jack*](https://www.apple.com/newsroom/2016/09/apple-introduces-iphone-7-iphone-7-plus/).
+Rather, the iPhone 7 became the [iPhone Without a Headphone Jack](https://www.apple.com/newsroom/2016/09/apple-introduces-iphone-7-iphone-7-plus/).
 
 A myriad of questions sprung up immediately after the announcement. Would audio manufacturers switch to Apple's Lightning input
-and drop the industry-standard 3.5mm headphone input? Would Apple pay the price for removing the headphone jack and alienating customers with
+and drop the industry-standard 3.5mm headphone input? Would Apple pay the price for removing the headphone jack and alienating customers 
 not ready to search for new headphones?
 
 The answers to those questions? No and no. Apple chose to package a 3.5mm to Lightning adapter with the iPhone 7 to accomodate users and headphone manufacturers
@@ -29,10 +29,10 @@ charging, data transfer, and audio output into a single port.
 ![Moto Z with no 3.5mm jack]( /blog/motozjack.jpg )*A Moto Z (left) lying face down next to an iPhone 7 (right) with both lacking 3.5mm headphone jacks*
 
 Is this move hypocritical of Google after [publicly releasing ads poking fun at Apple for removing the 3.5mm headphone input?](https://youtu.be/Rykmwn0SMWU?t=43s) 
-The answer to that would be a hard *yes*. Is the decision to use an standard USB-C port rather than a Apple-limited Lightning port as anti-consumer as Apple's decision? 
+The answer to that would be a hard yes. Is the decision to use an standard USB-C port rather than a Apple-limited Lightning port as anti-consumer as Apple's decision? 
 Arguably so.
 
-While the fear of manufacturers creating their own audio input standards has likely passed, the consequences will likely remain the same. WHile headphone manufacturers continue 
+While the fear of manufacturers creating their own audio input standards has likely passed, the consequences will likely remain the same. If headphone manufacturers continue 
 to stick to their 3.5mm standard and smartphone manufacturers stay fragmented over their input of choice, the smartphone and headphone markets will 
 be an exhausting process for consumers having to adapt to different standards between different companies.
 
