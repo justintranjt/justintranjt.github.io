@@ -2,6 +2,7 @@
 layout: post
 title: "The Curious Case of the Missing Headphone Jack"
 date: 2017-08-04
+description: 3.5mm headphone jacks are becoming less common in flagship smartphones. Could this be a turn for the worse or a necessary progression for the smartphone market?
 ---
 ![iPhone 7 bottom view]( /blog/iphone7.jpg )*An iPhone 7, one of the first flagship phones to not feature a 3.5mm headphone input*
 
