@@ -10,7 +10,10 @@ title: JT - Blog
              <a href="{{ post.url }}" title="{{ post.title }}"> 
                 {{ post.title }} 
              </a>
-              <p> {{ post.content | strip_html | truncatewords:75 }} </p>
+              <p> {{ post.content | strip_html | truncatewords:50 }} </p>
          </li>
+         {% if post.excerpt != post.content %}
+             <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+         {% endif %}
      {% endfor %}
 </ul>
