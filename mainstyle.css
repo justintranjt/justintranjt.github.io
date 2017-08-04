@@ -107,6 +107,11 @@ ul {
 	text-align: center;
 }
 
+.indivpost {
+	padding: 20px;
+	border: 1px solid #ffc300;
+}
+
 .project, .research {
     border: 1px solid #ffc300;
 }
