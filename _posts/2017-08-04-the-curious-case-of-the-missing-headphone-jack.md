@@ -22,9 +22,11 @@ The decision to remove the headphone jack from the iPhone became a means by whic
 Apple's proprietary Lightning input and become fully integrated into the Apple ecosystem.
 
 Lately, the most alarming news to many smartphone consumers has been the adoption of Apple's 3.5mm headphone jack removal philosophy by many smartphone companies 
-developing Android phones: The most worrying case being the new Google Pixel 2, the new flagship Android smartphone developed by Google themselves.
-However, instead of choosing to create their own proprietary headphone input, they have likely included a single USB-C jack to combine 
+developing Android phones. Motorola's Moto Z, HTC's U Ultra, and (most worryingly the new Google Pixel 2)[https://twitter.com/OnLeaks/status/890157163347406848] (flagship Android smartphone developed by Google themselves) have all done away with the 3.5mm headphone jack.
+However, instead of choosing to create their own proprietary headphone inputs, each Android manufacturer has included a single USB-C jack to combine 
 charging, data transfer, and audio output into a single port.
+
+![]( /blog/motozjack.jpg )*A Moto Z (left) lying face down next to an iPhone 7 (right) with both lacking 3.5mm headphone jacks*
 
 Is this move hypocritical of Google after (publicly releasing ads poking fun at Apple for removing the 3.5mm headphone input?)[https://youtu.be/Rykmwn0SMWU?t=43s] 
 The answer to that would be a hard *yes*. Is the decision to use an standard USB-C port rather than a Apple-limited Lightning port as anti-consumer as Apple's decision? 
