@@ -11,8 +11,7 @@ When the iPhone 7 was announced on September 7, 2016, the greatest outrage did n
 internal hardware or even the common complaints about the [slowdown of past generations of iPhones after major software updates](https://www.nytimes.com/2014/07/27/upshot/hold-the-phone-a-big-data-conundrum.html?_r=1).
 Rather, the iPhone 7 became the [iPhone Without a Headphone Jack](https://www.apple.com/newsroom/2016/09/apple-introduces-iphone-7-iphone-7-plus/).
 
-A myriad of questions sprung up immediately after the announcement. Would audio manufacturers switch to Apple's Lightning input
-and drop the industry-standard 3.5mm headphone input? Would Apple pay the price for removing the headphone jack and alienating customers 
+A myriad of questions sprung up immediately after the announcement. Would audio manufacturers switch to Apple's digital Lightning connector and drop the industry-standard 3.5mm analog headphone input? Would Apple pay the price for removing the headphone jack and alienating customers 
 not ready to search for new headphones?
 
 The answers to those questions? No and no. Apple chose to package a [3.5mm to Lightning adapter with the iPhone 7](https://www.apple.com/shop/product/MMX62AM/A/lightning-to-35-mm-headphone-jack-adapter) to accomodate users and headphone manufacturers
@@ -37,8 +36,9 @@ The answer to that would be a hard yes. Is the decision to use an standard USB-C
 Arguably so.
 
 While the fear of manufacturers creating their own audio input standards has likely passed, the consequences will likely remain the same. If headphone manufacturers continue 
-to stick to their 3.5mm standard and smartphone manufacturers stay fragmented over their input of choice, the smartphone and headphone markets will 
-be an exhausting process for consumers having to adapt to different standards between different companies.
+to stick to their 3.5mm standard and smartphone manufacturers stay fragmented over their input of choice, the smartphone market will become exhausting to navigate purely based on what accessories can be associated with each device.
 
-In theory, merging multiple ports with different uses into a single port streamlines the smartphone experience. Rather than having multiple flimsy cords and faulty ports to deal with, all functions can be combined through a single, standardized input. But until all smartphone manufacturers agree 
-on a single standard (much like the adoption of Bluetooth as the standard to connect to nearby wireless accessories), consumers will be forced to conform to the decisions of their device's manufacturer when dealing with a small millimeter-sized jack in their smartphone.
+In theory, merging multiple ports with different uses into a single port streamlines the smartphone experience. Rather than having multiple flimsy cords and faulty ports to deal with, all functions can be combined through a single, standardized input.
+Innovation is welcome and the move away from 3.5mm analog input jacks towards digital audio inputs needed to occur sooner rather than later. Many consumers will enjoy the higher quality audio and phone-powered features like active noise-cancelling made possible by digital inputs. 
+
+But until consumers can stop carrying multiple adapters for their devices and smartphone manufacturers can agree on a single digital standard, the consumer smartphone shopping experience will be clumsy and many will be forced to conform to the decisions of their device's manufacturer when dealing with a small millimeter-sized jack in their smartphone.
