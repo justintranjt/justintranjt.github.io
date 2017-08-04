@@ -15,10 +15,12 @@ A myriad of questions sprung up immediately after the announcement. Would audio 
 and drop the industry-standard 3.5mm headphone input? Would Apple pay the price for removing the headphone jack and alienating customers 
 not ready to search for new headphones?
 
-The answers to those questions? No and no. Apple chose to package a 3.5mm to Lightning adapter with the iPhone 7 to accomodate users and headphone manufacturers
+The answers to those questions? No and no. Apple chose to package a [3.5mm to Lightning adapter with the iPhone 7](https://www.apple.com/shop/product/MMX62AM/A/lightning-to-35-mm-headphone-jack-adapter) to accomodate users and headphone manufacturers
 unwilling to switch to Apple's new self-proclaimed standard. However, the damage to the user experience was uncurable. The Lightning input became an annoyance 
 to most iPhone 7 users as they could no longer enjoy the convenience of charging the device and listening to audio through wired headphones, forced some users 
 to opt for Bluetooth headphones (a flawed experience to say the least), and ultimately made most users deal with the odd extension of the adapter.
+
+![iPhone 7 Plus with Adapter]( /blog/adapter.jpg )*A Lightning to 3.5mm Headphone Jack Adapter connected to an iPhone 7 Plus*
 
 The decision to remove the headphone jack from the iPhone became a means by which Apple forced users to deal with tech's greatest sin (discomfort) or buy into 
 Apple's proprietary Lightning input and become fully integrated into the Apple ecosystem.
@@ -38,6 +40,5 @@ While the fear of manufacturers creating their own audio input standards has lik
 to stick to their 3.5mm standard and smartphone manufacturers stay fragmented over their input of choice, the smartphone and headphone markets will 
 be an exhausting process for consumers having to adapt to different standards between different companies.
 
-In theory, merging multiple ports with different uses into a single port streamlines the smartphone experience. But until all smartphone manufacturers agree 
-on a single standard (much like the adoption of Bluetooth as the standard to connect to nearby wireless accessories), the headphone experience for consumers 
-looking to purchase a new smartphone will be uncomfortable at the very least.
+In theory, merging multiple ports with different uses into a single port streamlines the smartphone experience. Rather than having multiple flimsy cords and faulty ports to deal with, all functions can be combined through a single, standardized input. But until all smartphone manufacturers agree 
+on a single standard (much like the adoption of Bluetooth as the standard to connect to nearby wireless accessories), consumers will be forced to conform to the decisions of their device's manufacturer when dealing with a small millimeter-sized jack in their smartphone.
