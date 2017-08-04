@@ -10,6 +10,7 @@ title: JT - Blog
              <a href="{{ post.url }}" title="{{ post.title }}"> 
                 {{ post.title }} 
              </a>
+              <p> {{ post.content | strip_html | truncatewords:75 }} </p>
          </li>
      {% endfor %}
 </ul>
