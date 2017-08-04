@@ -3,6 +3,7 @@ layout: post
 title: "A Summer Of Unknowns"
 date: 2017-08-01
 description: After a week of learning web design techniques my website is finally complete!
+image: /blog/Deadvlei.jpg
 ---
 ![]( /blog/Deadvlei.jpg )*A withered Acacia tree stuck in the white clay pan coined Deadvlei*
 
