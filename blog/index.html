@@ -10,7 +10,7 @@ title: JT - Blog
              <a href="{{ post.url }}" title="{{ post.title }}"> 
                 {{ post.title }} 
              </a>
-              {{ post.date|date: "%B %d, %Y" }}
+              <p> {{ post.date|date: "%B %d, %Y" }} </p>
               <p> {{ post.description }} </p>
          {% if post.excerpt != post.content %}
              <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
