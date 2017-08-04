@@ -26,7 +26,7 @@ developing Android phones. Motorola's Moto Z, HTC's U Ultra, and [most worryingl
 However, instead of choosing to create their own proprietary headphone inputs, each Android manufacturer has included a single USB-C jack to combine 
 charging, data transfer, and audio output into a single port.
 
-![Moto Z with no 3.5mm jack]( /blog/motozjack.jpg )*A Moto Z (left) lying face down next to an iPhone 7 (right) with both lacking 3.5mm headphone jacks*
+![Moto Z with no 3.5mm jack]( /blog/motozjack.jpg )*Both the Moto Z (left) and the iPhone 7 (right) lack 3.5mm headphone jacks*
 
 Is this move hypocritical of Google after [publicly releasing ads poking fun at Apple for removing the 3.5mm headphone input?](https://youtu.be/Rykmwn0SMWU?t=43s) 
 The answer to that would be a hard yes. Is the decision to use an standard USB-C port rather than a Apple-limited Lightning port as anti-consumer as Apple's decision? 
