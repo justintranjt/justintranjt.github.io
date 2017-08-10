@@ -27,7 +27,7 @@ Not bad, eh? But how exactly did the radial displacements from Brownian movement
 
 Magic.
 
-Not quite. It's a *bit* more complex than that. We first find the diffusion constant with our data in order to approximate the Boltzmann constant and finally predict Avogadro's constant.
+Not quite. It's a *bit more complex than that. We first find the diffusion constant with our data in order to approximate the Boltzmann constant and finally predict Avogadro's constant.
 
 Einstein's relation equation states that **σ<sup>2</sup> = 2DΔt** where *t* is the time between movements, *σ<sup>2</sup>* is the variance of random movements, and *D* is the diffusion constant we are looking for. The Einstein relation also states that the random displacement of a polystyrene bead with the above variance equation. 
 
