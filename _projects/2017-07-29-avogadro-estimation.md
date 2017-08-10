@@ -25,11 +25,11 @@ What did we do exactly with our code? We simply separated all pixels in the blac
 
 Not bad, eh? But how exactly did the radial displacements from Brownian movement lead to this constant?
 
-Magic.
+Magic?
 
 Not quite. It's a *bit more complex than that. We first find the diffusion constant with our data in order to approximate the Boltzmann constant and finally predict Avogadro's constant.
 
-Einstein's relation equation states that **σ<sup>2</sup> = 2DΔt** where *t* is the time between movements, *σ<sup>2</sup>* is the variance of random movements, and *D* is the diffusion constant we are looking for. The Einstein relation also states that the random displacement of a polystyrene bead with the above variance equation. 
+Einstein's relation equation states that __σ<sup>2</sup> = 2DΔt__ where _t_ is the time between movements, _σ<sup>2</sup>_ is the variance of random movements, and *D* is the diffusion constant we are looking for. The Einstein relation also states that the random displacement of a polystyrene bead with the above variance equation. 
 
 Thankfully, we found the variance of movements by observing the displacements of the polystyrene beads undergoing Brownian motion which can be boiled down to the following equation **σ<sup>2</sup> = \frac{r<sup>2</sup><sub>1</sub>+…+r<sup>2</sup><sub>n</sub>}{2n}**. *r<sup>2</sup><sub>n</sub>* represents radial displacement and is approximated from the 2-dimensional X and Y movement of the beads.
 
