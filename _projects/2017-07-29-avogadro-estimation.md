@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Avogadro Estimation (Java)"
-date: 2017-07-29
+date: 2017-08-09
 description: Estimates the Avogadro Constant by analyzing Brownian motion in polystyrene beads suspended in water
 image: /projects/frame00000.jpg
 ---
