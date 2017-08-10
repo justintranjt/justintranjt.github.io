@@ -7,7 +7,7 @@ image: /projects/frame00000.jpg
 ---
 ![]( /projects/frame00000.jpg )*An individual frame showing the polystyrene beads illuminated against a backdrop of water*
 
-The final project for Princeton University's Intro to Computer Science course involves providing an estimate for Avogadro's Constant (6.23 x 10<sup>23</sup>) using a scientific method involving the analysis of Brownian motion. [All code for the project can be found on the repo.](https://github.com/justintranjt/avogadro-estimate). This assignment was created by David Botstein, Tamara Broderick, Ed Davisson, Daniel Marlow, William Ryu, and Kevin Wayne of Princeton University in 2005 and was personally completed in Spring 2017.
+The final project for Princeton University's Intro to Computer Science course involves providing an estimate for Avogadro's Constant (6.02 x 10<sup>23</sup>) using a scientific method involving the analysis of Brownian motion. [All code for the project can be found on the repo](https://github.com/justintranjt/avogadro-estimate). [This assignment](http://www.cs.princeton.edu/courses/archive/spr17/cos126/assignments/atomic.html) was created by David Botstein, Tamara Broderick, Ed Davisson, Daniel Marlow, William Ryu, and Kevin Wayne of Princeton University in 2005 and was personally completed in Spring 2017.
 
 At its core, the estimation comes from gathering data from recorded footage of polystyrene beads undergoing [Brownian motion](https://en.wikipedia.org/wiki/Brownian_motion) in water. The change in position for each bead within each video experiment can be fitted to the Stokes-Einstein relation. Four Java files were needed to translate that data into a single estimation for Avogadro's constant:
 
@@ -27,4 +27,12 @@ Not bad, eh? But how exactly did the radial displacements from Brownian movement
 
 Magic.
 
-Just kidding. It's a bit more complex than that.
+Not quite. It's a *bit* more complex than that. We first find the diffusion constant with our data in order to approximate the Boltzmann constant and finally predict Avogadro's constant.
+
+Einstein's relation equation states that **σ<sup>2</sup> = 2DΔt** where *t* is the time between movements, *σ<sup>2</sup>* is the variance of random movements, and *D* is the diffusion constant we are looking for. The Einstein relation also states that the random displacement of a polystyrene bead with the above variance equation. 
+
+Thankfully, we found the variance of movements by observing the displacements of the polystyrene beads undergoing Brownian motion which can be boiled down to the following equation **σ<sup>2</sup> = \frac{r<sup>2</sup><sub>1</sub>+…+r<sup>2</sup><sub>n</sub>}{2n}**. *r<sup>2</sup><sub>n</sub>* represents radial displacement and is approximated from the 2-dimensional X and Y movement of the beads.
+
+From there, we have the means to calculate the Diffusion constant, *D*. After that, we can calculate the Boltzmann constant with the [Stokes-Einstein relation](https://en.wikipedia.org/wiki/Einstein_relation_(kinetic_theory)#Stokes-Einstein_equation) describing a particle in a viscous solution: **D=\frac{kT}{6πηρ}** where *k* is the Boltzmann constant. With some simple algebra we calculate the Boltzmann constant. T (absolute temperature), η (viscosity of water), and ρ (radius of a polystyrene bead) are all assumed to be constants measured at the beginning of the experiment.
+
+Finally, we can relate the Boltzmann constant to Avogadro's constant with k = \frac(R){N<sub>A</sub>} from the Ideal Gas Law. There we have it! Our estimate for Avogadro's constant came out to be approximately 10% off the actual value. Not bad for some video analysis.
