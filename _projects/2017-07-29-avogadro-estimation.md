@@ -21,7 +21,7 @@ At its core, the estimation comes from gathering data from recorded footage of p
 
 What did we do exactly with our code? We simply separated all pixels in the black and white video into two categories: Blobs of light and dark water. The blobs were further divided into polystyrene beads represented by a large set of light pixels and noisy light pixels. Each of those beads was tracked between frames to determine their displacements and that magically allowed us to find Avogadro's constant. In this case, it was found to be the following: 
 
-![]( /projects/avogadro.PNG )*An estimate for Boltzmann's Constant and Avogadro's Number using data from all 10 trials of the experiment
+![]( /projects/avogadro.PNG )*An estimate for Boltzmann's Constant and Avogadro's Number using data from all 10 trials of the experiment*
 
 Not bad, eh? But how exactly did the radial displacements from Brownian movement lead to this constant?
 
