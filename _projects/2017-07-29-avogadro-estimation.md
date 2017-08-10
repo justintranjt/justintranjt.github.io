@@ -29,7 +29,7 @@ Magic?
 
 Not quite. It's a **bit more complex than that. We first find the diffusion constant with our data in order to approximate the Boltzmann constant and finally predict Avogadro's constant.**
 
-Einstein's relation equation states that <iframe>http://mathurl.com/y8oqhwwk.png</iframe> where **t** is the time between movements, **σ<sup>2</sup>** is the variance of random movements, and **D** is the diffusion constant we are looking for. The Einstein relation also states that the random displacement of a polystyrene bead with the above variance equation. 
+Einstein's relation equation states that <img src="http://mathurl.com/y8oqhwwk.png"></img> where **t** is the time between movements, **σ<sup>2</sup>** is the variance of random movements, and **D** is the diffusion constant we are looking for. The Einstein relation also states that the random displacement of a polystyrene bead with the above variance equation. 
 
 Thankfully, we found the variance of movements by observing the displacements of the polystyrene beads undergoing Brownian motion which can be boiled down to the following equation **σ<sup>2</sup> = \frac{r<sup>2</sup><sub>1</sub>+…+r<sup>2</sup><sub>n</sub>}{2n}**. **r<sup>2</sup><sub>n</sub>** represents radial displacement and is approximated from the 2-dimensional X and Y movement of the beads.
 
