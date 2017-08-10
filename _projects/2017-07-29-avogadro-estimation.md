@@ -29,12 +29,12 @@ Magic?
 
 Not quite. It's a **bit more complex than that. We first find the diffusion constant with our data in order to approximate the Boltzmann constant and finally predict Avogadro's constant.**
 
-Einstein's relation equation states that <img src="http://mathurl.com/y8oqhwwk.png" style="background-color:white"> where **t** is the time between movements, **σ<sup>2</sup>** is the variance of random movements, and **D** is the diffusion constant we are looking for. 
+Einstein's relation equation states that" <img src="http://mathurl.com/y8oqhwwk.png" style="background-color:white"> where **t** is the time between movements, **σ<sup>2</sup>** is the variance of random movements, and **D** is the diffusion constant we are looking for. 
 
-Thankfully, we found the random variance of movements by observing the displacements of the polystyrene beads undergoing Brownian motion which can be boiled down to the following equation <img src="http://mathurl.com/ybf33jtf.png" style="background-color:white">.**r<sup>2</sup><sub>n</sub>** represents radial displacement and is approximated from the 2-dimensional X and Y movement of the beads.
+Thankfully, we found the random variance of movements by observing the displacements of the polystyrene beads undergoing Brownian motion which can be boiled down to the following equation: <img src="http://mathurl.com/ybf33jtf.png" style="background-color:white"> **r<sup>2</sup><sub>n</sub>** represents radial displacement and is approximated from the 2-dimensional X and Y movement of the beads.
 
 From there, we have the means to calculate the Diffusion constant, **D**. After that, we can calculate the Boltzmann constant with the [Stokes-Einstein relation](https://en.wikipedia.org/wiki/Einstein_relation_(kinetic_theory)#Stokes-Einstein_equation) describing a particle in a viscous solution: <img src="http://mathurl.com/y8h7z7y5.png" style="background-color:white"> where **k** is the Boltzmann constant. T (absolute temperature), η (viscosity of water), and ρ (radius of a polystyrene bead) are all assumed to be constants measured at the beginning of the experiment.
 
-Finally, we can relate the Boltzmann constant to Avogadro's constant with <img src="http://mathurl.com/y7y2velj.png" style="background-color:white"> from the Ideal Gas Law. There we have it! Our estimate for Avogadro's constant came out to be approximately 10% off the actual value. Not bad for some video analysis of light.
+Finally, we can relate the Boltzmann constant to Avogadro's constant with: <img src="http://mathurl.com/y7y2velj.png" style="background-color:white"> from the Ideal Gas Law. There we have it! Our estimate for Avogadro's constant came out to be approximately 10% off the actual value. Not bad for some video analysis of light.
 
 [This assignment](http://www.cs.princeton.edu/courses/archive/spr17/cos126/assignments/atomic.html) was created by David Botstein, Tamara Broderick, Ed Davisson, Daniel Marlow, William Ryu, and Kevin Wayne of Princeton University in 2005 and was personally completed in Spring 2017. Standard libraries from the course were also involved in the making of this project.
