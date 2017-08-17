@@ -32,10 +32,10 @@ charging, data transfer, and audio output into a single port.
 ![Moto Z with no 3.5mm jack]( /blog/motozjack.jpg )*Both the Moto Z (left) and the iPhone 7 (right) lack 3.5mm headphone jacks*
 
 Is this move hypocritical of Google after [publicly releasing ads poking fun at Apple for removing the 3.5mm headphone input?](https://youtu.be/Rykmwn0SMWU?t=43s) 
-The answer to that would be a hard yes. Is the decision to use an standard USB-C port rather than a Apple-limited Lightning port as anti-consumer as Apple's decision? 
+The answer to that would be a hard yes. Is the decision to use a standard USB-C port rather than a Apple-limited Lightning port as anti-consumer as Apple's decision? 
 Arguably so. While the fear of manufacturers creating their own audio input standards has likely passed, the consequences will likely remain the same.
 
 In theory, merging multiple ports with different uses into a single port streamlines the smartphone experience. Rather than having multiple flimsy cords and faulty ports to deal with, [all functions can be combined through a single, standardized input](http://www.usb.org/developers/docs/).
 Innovation is welcome and the move away from 3.5mm analog input jacks towards digital audio inputs needed to occur sooner rather than later. Many consumers will enjoy the [higher quality audio and phone-powered features like active noise-cancelling made possible by digital inputs](http://www.usb.org/press/USB-IF_Press_Releases/USB_Audio_Specification_USB-IF_September_2016_FINAL.pdf). 
 
-But until consumers can stop carrying multiple adapters for their devices and smartphone manufacturers can agree on a single digital standard, the consumer smartphone shopping experience will be clumsy and many will be forced to conform to the decisions of their device's manufacturer when dealing with a small millimeter-sized jack in their smartphone.
+But until consumers can stop carrying multiple adapters for their devices and smartphone manufacturers can agree on a single digital standard, the consumer smartphone shopping experience will be clumsy and many will be forced to conform to the decisions of the manufacturer when dealing with a small millimeter-sized jack in their smartphone.
