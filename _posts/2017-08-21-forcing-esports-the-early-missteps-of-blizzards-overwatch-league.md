@@ -2,7 +2,7 @@
 layout: post
 title: "Forcing eSports - The Early Missteps of Blizzard's Overwatch League"
 date: 2017-08-21
-description: As Blizzard's Overwatch League continues to speed ahead, a host of issues threaten to hold the league back
+description: As Blizzard's Overwatch League continues to speed ahead, a host of issues threaten to hold the league back.
 image: /blog/OWL_Logo.png
 ---
 ![Overwatch League Logo]( /blog/OWL_Logo.png )*The official Overwatch League logo. Courtesy of Blizzard Entertainment available under [CC BY](https://creativecommons.org/licenses/by/2.0/)*
@@ -33,6 +33,6 @@ And what about the viewing experience of Overwatch itself? Like many semi-casual
 
 [As a member of a small eSports community at a university where competitive gaming grew through community support](http://www.nytimes.com/2009/04/12/sports/othersports/12star.html?mcubz=3) with small LANs for games like Super Smash Bros. Melee, it is strange and disjointed seeing a company trying to promote Overwatch as a competitive game purely within their jurisdiction before even testing the waters of whether or not it has the standing to be a highly competitive eSport. It has only been a year has been officially released! eSports isn't growing faster than Blizzard can handle, but the rate at which Blizzard wants competitive Overwatch to grow is faster than any community can handle. What's even more strange is this community's lack of care for the competitive scene. There are rarely ever any major eSports posts with highlights when teams like [Meta Athena are making wild plays that would impress any player end up being ignored by the Overwatch community by and large](https://clips.twitch.tv/DaintyTrustworthyPineappleBatChest).
 
-<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/9z5VRez2gHQ" frameborder="0" allowfullscreen></iframe>
+<div style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/9z5VRez2gHQ" frameborder="0" allowfullscreen></iframe></div>
 
 I love eSports, but the lack of information combined with the direction Blizzard seem to be taking Overwatch League in is in a downward trajectory from my perspective. I'm hoping for the best but expecting the worst because I absolutely love the game and want it to succeed in the eSports world.
