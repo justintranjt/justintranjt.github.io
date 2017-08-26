@@ -9,7 +9,9 @@ image: /projects/hnewsbot.PNG
 
 # Why create this project?
 
-To put my newfound Python skills to practice, I decided on creating a project that would first and foremost be personally useful to me. What did that mean in the end? I chose to create a small automated bot that would replace an existing Twitter account I followed ([@newsycombinator](https://twitter.com/newsycombinator)) which linked to the top articles posted on the popular computer-science-oriented news aggregator known as [Hacker News](https://news.ycombinator.com/).
+To put my newfound Python skills to practice, I decided on creating a project that would first and foremost be personally useful to me. What did that mean in the end? I chose to create a small automated bot that would replace an existing Twitter account I followed ([@newsycombinator](https://twitter.com/newsycombinator)) which linked to the top articles posted on the popular computer-science-oriented news aggregator known as [Hacker News](https://news.ycombinator.com
+
+With that I created [@HackerNewsPosts](https://twitter.com/HackerNewsPosts)
 
 # Why fix what isn't broken?
 
