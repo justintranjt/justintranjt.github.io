@@ -15,11 +15,11 @@ To put my newfound Python skills to practice, I decided on creating a project th
 
 The changes I made were small quality-of-life improvements that would improve my overall experience with viewing Hacker News articles from my Twitter feed. Often, I can't even be bothered to go out of my way to search for interesting articles from the news sources themselves or even on Hacker News. So, Twitter has become a way for me to aggregate those interesting sources all onto one handy, updated page.
 
-But why not stick with following @newsycombinator for my Hacker News needs? My gripes with the account came down to its lack of links to the ever-important comments sections of respective posts. My goal was to improve on these shortcomings by fixing these problems and even creating my own nifty features if possible (all while putting my skills to the test).
+But why not stick with following @newsycombinator for my Hacker News needs? My gripes with the account came down to its lack of links to the ever-important comments sections of respective posts in addition to the constant tweeting of duplicate posts. My goal was to improve on these shortcomings by fixing these problems and even creating my own killer features if possible (all while putting my skills to the test).
 
 # What makes [@HackerNewsPosts](https://twitter.com/HackerNewsPosts) different?
 
-My Twitter bot takes care of the previously mentioned shortcomings by adding a story link and comments section link to each poste. Every post made by the bot features the newest stories to make it onto the front page of Hacker News since the last tweet cycle (2 hours).
+My Twitter bot takes care of the previously mentioned shortcomings by adding a story link and comments section link to each post and making sure that the same post is never tweeted more than once. Every post made by the bot features the newest stories to make it onto the front page of Hacker News since the last tweet cycle (2 hours).
 
 In addition, the bot's banner on Twitter is updated during every cycle with a screenshot of Hacker News' frontpage. Sometimes it's the small changes that make a difference.
 
@@ -32,4 +32,3 @@ To put it shortly, the project is hosted on a Heroku server and utilizes [Tweepy
 To follow the Twitter account, head over to [@HackerNewsPosts](https://twitter.com/HackerNewsPosts).
 
 If there are any questions feel free to contact me through Email. [All code for the project can be found on the repo](https://github.com/justintranjt/hacker-news-twitter-bot).
-
