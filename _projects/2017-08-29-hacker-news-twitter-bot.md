@@ -19,13 +19,13 @@ But why not stick with following @newsycombinator for my Hacker News needs? My g
 
 # What makes [@HackerNewsPosts](https://twitter.com/HackerNewsPosts) different?
 
-My Twitter bot takes care of the previously mentioned shortcomings by adding a story link and comments section link to each post and making sure that the same post is never tweeted more than once. Every post made by the bot features the newest stories to make it onto the front page of Hacker News since the last tweet cycle (2 hours).
+My Twitter bot takes care of the previously mentioned shortcomings by adding a story link and comments section link to each post and making sure that the same post is never tweeted more than once. Every post made by the bot features the newest stories to make it onto the front page of Hacker News since the last tweet cycle (1.5 hours).
 
 In addition, the bot's banner on Twitter is updated during every cycle with a screenshot of Hacker News' frontpage. Sometimes it's the small changes that make a difference.
 
 # How was the bot made?
 
-To put it shortly, the project is hosted on a Heroku server and utilizes [Tweepy](https://github.com/tweepy/tweepy) to make the tweets and update the banner. The bot was scheduled to run every 2 hours with the help of the [APScheduler library](https://apscheduler.readthedocs.io/en/latest/). [Haxor](https://github.com/avinassh/haxor) was used to access the Hacker News API without having to deal with pesky JSON files. [Selenium](http://www.seleniumhq.org/) and [Pillow](https://github.com/python-pillow/Pillow) allowed for screenshotting and image manipulation while [PhantomJS](http://phantomjs.org/) was used as the headless browser accessing the Hacker News front page.
+To put it shortly, the project is hosted on a Heroku server and utilizes [Tweepy](https://github.com/tweepy/tweepy) to make the tweets and update the banner. The bot was scheduled to run every 1.5 hours with the help of the [APScheduler library](https://apscheduler.readthedocs.io/en/latest/). [Haxor](https://github.com/avinassh/haxor) was used to access the Hacker News API without having to deal with pesky JSON files. [Selenium](http://www.seleniumhq.org/) and [Pillow](https://github.com/python-pillow/Pillow) allowed for screenshotting and image manipulation while [PhantomJS](http://phantomjs.org/) was used as the headless browser accessing the Hacker News front page.
 
 # Miscellaneous information
 
