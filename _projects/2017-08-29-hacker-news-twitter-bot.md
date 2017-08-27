@@ -31,6 +31,8 @@ To put it shortly, the project is hosted on a Heroku server and utilizes [Tweepy
 
 # Miscellaneous information
 
+Note: The bot does tweet some duplicate tweets from time to time. For some reason it only applies to 3 or 4 out of the 30 posts on the page that make it through Twitter's duplicate removal algorithm in addition to Tweepy's duplicate prevention. More progress will be made on that in the future but for now, it still handles duplicates better than @newsycombinator.
+
 To follow the Twitter account, head over to [@HackerNewsPosts](https://twitter.com/HackerNewsPosts).
 
 If there are any questions feel free to contact me through Email. [All code for the project can be found on the repo](https://github.com/justintranjt/hacker-news-twitter-bot).
