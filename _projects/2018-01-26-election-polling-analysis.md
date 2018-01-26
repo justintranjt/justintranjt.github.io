@@ -22,9 +22,9 @@ In this project we will study the patterns of the errors in presidential electio
 
 # How was the analysis performed?
 
-In Section 1, we are simply loading poll data into R and adding new columns of data to our dataset in R. We wanted to transform the dataset by showing *proportions* of votes in a state rather than showing the raw number of voted.
+In Section 1, we are simply loading poll data into R and adding new columns of data to our dataset in R. We wanted to transform the dataset by showing **proportions** of votes in a state rather than showing the raw number of voted.
 
-Section 3 added more columns of data based on the raw polling results. We added *std.unit* which is the number of standard error units each poll result is from the actual election results. Just as importantly, we added the *significant* column (a vector that shows TRUE if the 95% CI for estimating the **proportion of Trump supporters - proportion of Clinton supporters** does not cover 0 which would imply no difference between polling and actual results for both candidates).
+Section 3 added more columns of data based on the raw polling results. We added **std.unit** which is the number of standard error units each poll result is from the actual election results. Just as importantly, we added the **significant** column (a vector that shows TRUE if the 95% CI for estimating the **proportion of Trump supporters - proportion of Clinton supporters** does not cover 0 which would imply no difference between polling and actual results for both candidates).
 
 We then plotted the standard error data to view any states that may have overestimated Clinton or Trump votes during polling season. Tests were run on states with abnormal error differences indicating a fundamentally wrong prediction during polls that cannot be explained by random change.
 
