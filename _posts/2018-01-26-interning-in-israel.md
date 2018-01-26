@@ -5,7 +5,7 @@ date: 2018-01-26
 description: A short update on my internship lined up for Summer 2018.
 image: /blog/aidoc_logo.png
 ---
-![Aidoc is developing advanced innovations in deep learning and AI to augment the radiology workflow.]( /blog/aidoc_logo.pngg )
+![Aidoc is developing advanced innovations in deep learning and AI to augment the radiology workflow.]( /blog/aidoc_logo.png )
 
 This summer I will be interning as a Software Engineer at [Aidoc](http://www.aidoc.com/), an Israeli company based in Tel Aviv. Aidoc 
 focuses on machine learning solutions that detect abnormalities in various medical scans to assist radiologists in diagnosing potentially 
