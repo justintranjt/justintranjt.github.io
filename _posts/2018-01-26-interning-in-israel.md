@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interning in Tel Aviv (Developments in my Development Career)"
+title: "Interning in Tel Aviv (Developments in my Software Engineering Career)"
 date: 2018-01-26
 description: A short update on my internship lined up for Summer 2018.
 image: /blog/aidoc_logo.png
