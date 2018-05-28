@@ -11,5 +11,4 @@ This summer I will be interning as a Software Engineer at [Aidoc](http://www.aid
 focuses on machine learning solutions that detect abnormalities in various medical scans to assist radiologists in diagnosing potentially 
 dangerous phenomena.
 
-I will be detailing my experiences in working for Aidoc this summe where I'll be focusing on machine learning solutions and whichever
-stack I will be working with.  Stay tuned for more updates this summer (and more sandy photos).
+I will be detailing my experiences in working for Aidoc this summer where I'll be helping Aidoc develop their stack based on a Python app running in Flask as well as prototyping their image training software via MATLAB.  Stay tuned for more updates this summer (and more sandy photos).
