@@ -5,11 +5,11 @@ date: 2018-06-16
 description: I have no association with the Middle East. So why the hell am I here?
 image: /blog/pita.png
 ---
-Individuals with no relationship with any form of organized religion rarely, if ever, choose to visit Israel. With as little relation as I have to Israel, a country majorly comprised of people from Arab and Jewish descent (and of which I am *clearly* neither), the greatest dilemma involves understanding a foreign culture that I have little prior interaction with.
+Individuals with no relationship with any form of organized religion rarely, if ever, choose to visit Israel. With as little relation as I have to Israel, a country majorly comprised of people from Arab and Jewish descent (and of which I am **clearly** neither), the greatest dilemma involves understanding a foreign culture that I have little prior interaction with.
 
 Travel is imperfect yet exhilirating in this sense. The major question all travelers should ask themselves applies heavily in this case: "How can I understand a culture without being a member of it?"
 
-Culture is interaction and understanding between members of society through the shared *values* one holds true as a group of people. 
+Culture is interaction and understanding between members of society through the shared **values** one holds true as a group of people. 
 
 My answer? We break bread and we eat as the locals do.
 
