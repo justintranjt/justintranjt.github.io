@@ -17,4 +17,6 @@ Eat at the neighborhood street food joints that are little more than a grill and
 
 They are one in the same.
 
-![Thank you, Mr. Bourdain. You may be gone but you're still *alive*.]( /blog/anthony.png )
+This is not just a 10 week vacation. This is work and cultural understanding in the making. Work with the people, eat with the people, and pretty soon, understand how wildly distant ideas can work in the world.
+
+![Bourdain lives on.]( /blog/anthony.png )
