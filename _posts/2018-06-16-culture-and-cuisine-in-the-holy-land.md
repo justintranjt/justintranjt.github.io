@@ -13,7 +13,7 @@ Why the hell am I traveling? Well, that's a question I'm looking to discover the
 
 What about my attempts at understanding Israeli culture? Culture is interaction and understanding between members of society through the shared values one holds true as a group of people. 
 
-My answer? We break bread and we eat as the locals do ala the late Anthony Bourdain.
+My answer? **We break bread and we eat as the locals do ala the late Anthony Bourdain.**
 
 ![Bourdain lives on.]( /blog/anthony.png )
 
