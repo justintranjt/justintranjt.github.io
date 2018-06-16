@@ -2,8 +2,13 @@
 layout: post
 title: "Culture and Cuisine in the Holy Land"
 date: 2018-06-16
-description: How does a country 
-image: /blog/pita.jpg
+description: I have no association with the Middle East. So what the hell am I doing here?
+image: /blog/pita.png
 ---
-![Thank you, Mr. Bourdain]( /blog/anthony.png )
+I don't enjoy traveling alone. I can't fully explore something without a push in the right direction. So how the hell did I end up in the Middle East? Simply put, individuals with no relationship with any form of organized religion rarely, if ever, choose to visit Israel. And as little relation I have to Israel, a country comprised of 75% Jews and 21% Arabs (and of which I am neither), I truly try my best to understand this foreign culture that I have no prior interaction with.
 
+Travel is imperfect yet exhilirating in this sense. The major question all travelers should ask themselves applies heavily in this case: "How can I understand a culture without being a part of it?"
+
+My answer? We break bread and eat. Eat at the sit-down, fine dining, tip your waiter and keep the table spotless restaurants. Eat at the neighborhood street food joints that are little more than a grill and cash register operated by a lone, weathered man that has served thousands upon thousands of soft, fluffy layers of pita along with the deliciously fried balls of falafel that could only be made with love and the soul to continue perfecting a single dish.
+
+![Thank you, Mr. Bourdain. You may be gone but you're still *alive*.]( /blog/anthony.png )
