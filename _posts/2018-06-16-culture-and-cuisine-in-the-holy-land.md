@@ -19,7 +19,7 @@ Eat at the sit-down, tip-your-waiter and keep-the-table-spotless restaurants hea
 
 Eat at the neighborhood street food joints that are little more than a grill and cash register operated by a lone, weathered man that has served thousands upon thousands of layered pita along with deliciously fried falafel that could only be made with love and the the care required to to continue perfecting a single dish for years.
 
-![Shakshuka even Jesus would love.]( /blog/shakshuka.png )
+![Shakshuka even Jesus would love.]( /blog/shakshuka.jpg )
 
 As separate as these worlds seem to operate in, the ultimate goal of the culinary result is the same: Bring people together through the joy of food. After all, we share the same taste buds even if we don't share the same tastes.
 
