@@ -19,7 +19,7 @@ My answer? **We break bread and we eat as the locals do ala the late Anthony Bou
 
 Eat at the sit-down, tip-your-waiter and keep-the-table-spotless restaurants headed by chefs with years of experience cooking their shakshuka for the finest patrons in the world.
 
-Eat at the neighborhood street food joints that are little more than a grill and cash register operated by a lone, weathered man that has served thousands upon thousands of layered pita along with deliciously fried falafel that could only be made with love and the the care required to continue perfecting a single dish for years without going insane.
+Eat at the neighborhood street food joints that are little more than a grill and cash register operated by a lone, weathered man that has served thousands upon thousands of layered pita along with deliciously fried falafel that could only be made with love and the care required to continue perfecting a single dish for years without going insane.
 
 ![Shakshuka even Jesus would love.]( /blog/shakshuka.jpg )*Mediocre shakshuka if we're being honest*
 
