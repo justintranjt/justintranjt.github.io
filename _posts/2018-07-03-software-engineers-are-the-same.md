@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Software Engineers Are the Same Everywhere, Whether We like It or Not"
+title: "Software Engineers Are the Same (To a Degree) Everywhere, Whether We like It or Not"
 date: 2018-07-03
 description: Drawing the line at meaningless boundaries of the English language.
 image: /blog/.png
