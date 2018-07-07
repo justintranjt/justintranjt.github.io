@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""All People Are the Same, Only Their Habits Differ""
+title: "All People Are the Same, Only Their Habits Differ"
 date: 2018-07-07
 description: All software engineers can be as similar or as different as you want them to be, it just depends on how you view them.
 image: /blog/aidoclunch.png
