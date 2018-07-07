@@ -16,6 +16,8 @@ Rather, Princeton's curriculum gets students thinking critically about systems a
 
 But I digress. I'm here to speak on my experience in Israel, not just the experience of working at a software engineering internship that happens to be in Israel. 
 
+![ Israeli lunch ]( /blog/aidoclunch.png )*A delicious Israeli lunch created by the amazing cooks at the Aidoc office.*
+
 Before arriving in Israel, the single most-preached token of advice was "expect Israelis to be blunt". For all that various programs and locals preach about the "Israeli straightforwardness" in order to prepare sheltered Ivy League university students, there is more similarity than one may expect half a world away in the Middle East. 
 
 At the end of the day, software engineers share similar customs, personalities, and attitudes toward technology and life no matter where you go around the world. Maybe that says more about the human condition than it does about the differences that can be observed between cultures. Once you dig deep and start speaking to Israelis on the hard topics, you may find that they share similar values but simply expressed in different ways based on their culture.
