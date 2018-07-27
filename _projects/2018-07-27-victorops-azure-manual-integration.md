@@ -5,7 +5,7 @@ date: 2018-07-27
 description: Manually implements Azure alerts into the VictorOps incident management platform
 image: /projects/logicApp.PNG
 ---
-![]( /projects/logicApp.PNG )*The Unix shell called ish (Interactive SHell) running multiple commands*
+![]( /projects/logicApp.PNG )*A screenshot from the Azure Logic App Designer*
 
 # Background. Why not use the VictorOps integration listed on their website?
 Microsoft Azure and the incident management platform VictorOps do not have an automatically working integration at the moment. In fact, the integration they provide works with Microsoft OMS, a deprecated platform in the Azure ecosystem. This manual integration aims to include all the essential features that would include in a regular integration.
@@ -45,7 +45,7 @@ In our logic app, whenever an HTTP request is received at our logic app’s URI,
     
 Note that the JSON Body will require some tweaking in the future to get the data we absolutely want in the incident. Once again, view the [Logic Apps Workflow Definition Language](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-definition-language) article for more information. Most of the incident information sent to VictorOps is found in the data field.
     
-## Alerts (on VictorOps)
+## Alerts (on Azure Monitor)
 1. From the left menu pane, select Monitoring >> Alerts >> New Alert Rule
 2. Define the alert however you would prefer to monitor things. For testing purposes, I find it easiest to monitor all administrative operations a condition (see Step 3)
 Whenever the "Administrative Activity Log All Administrative operations" has "any" level, with "any" status and event is initiated by "<admin_email_addr>"
