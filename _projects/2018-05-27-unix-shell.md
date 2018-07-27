@@ -16,7 +16,7 @@ Creating a functioning Unix shell boils down to a 3-step process:
 # Creating a DFA
 Step 1 is achieved by simulating a DFA in which each state is determined by the character read in from a line of input. The states result in the creation of an "ordinary" or "special" token depending on the type of character and adds these to a dynamically sized array that will be later processed into a single command in the second step.
 
-Special characters aer denoted by "<" or ">" and indicate that the following tokens represent a stdIn or stdOut file that input or output will be redirected to.
+Special characters are denoted by "<" or ">" and indicate that the following tokens represent a stdIn or stdOut file that input or output will be redirected to.
 
 ![A snippet from LexAnalyze.c showing a portion of the DFA](/projects/ShellLex.png)
 
