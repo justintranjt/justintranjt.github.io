@@ -7,7 +7,7 @@ image: /projects/logicApp.PNG
 ---
 ![]( /projects/logicApp.PNG )*A screenshot from the Azure Logic App Designer*
 
-# Background. Why not use the VictorOps integration listed on their website?
+# Why not use the VictorOps integration listed on their website?
 Microsoft Azure and the incident management platform VictorOps do not have an automatically working integration at the moment. In fact, the integration they provide works with Microsoft OMS, a deprecated platform in the Azure ecosystem. This manual integration aims to include all the essential features that would include in a regular integration.
 
 Note: This works for ALL forms of Azure alerts. You simply have to connect either alert to the action group with the logic app’s webhook (which will send the message to VictorOps).
@@ -21,7 +21,7 @@ In a support case I opened with Azure in July 2018, a VictorOps support engineer
 In our logic app, whenever an HTTP request is received at our logic app’s URI, a HTTP 200 response is triggered and sent back to the original requester. In this case, the requester is the alert rule’s action group firing an HTTP request. In the logic app, we create an HTTP POST request and send it to VictorOps’ generic REST API. This POST request contains a JSON body that is written with the Logic Apps Workflow Definition Language and contains the necessary JSON fields required by the VictorOps REST endpoint. More JSON fields can be added as necessary to make the incident descriptions more readable.
 
 # Steps 
-## Logic App (on Azure)
+## Logic App (on Azure Logic Apps)
 1. Create a Logic App. The Logic App will serve as the central structure for the integration with VictorOps. Follow these steps:
 2. Create a new Logic App by clicking the Create Resource button in the top left corner of the Azure Portal. You can equivalently follow the first couple steps of this documentation.
     1. Name the application.
