@@ -7,7 +7,7 @@ title: JT - Home Page
 
 Welcome to my page! I'm a computer scientist by education, a Princetonian at the moment, and an Oregonian from the day I was born. Here is some background on my interests and motivations:
 
-![Sossusvlei]( /Sossusvlei, Namibia.jpg )*On top of the Big Daddy Sand Dune, Sossusvlei, Namibia*
+![JaffaPort]( /jaffaProfile.jpg )*Facing the Meditteranean Sea from Jaffa Port (Jaffa, Israel)*
 
 Ever since I picked up my first Game Boy Color as a young child, I have always loved gaming and technology. I not only continued to enjoy gaming, but also used it as an inspiration to throw myself fully into programming in the hopes that I could inspire users the same way I was inspired from a young age. Today, I hope to use that passion as a developer to explore the many odd categories of the world that interest me.
 
