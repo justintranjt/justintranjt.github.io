@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VictorOps-Azure Manual Integration"
+title: "VictorOps-Azure Manual Integration (WDL)"
 date: 2018-07-27
 description: Manually implements Azure alerts into the VictorOps incident management platform
 image: /projects/logicApp.PNG
