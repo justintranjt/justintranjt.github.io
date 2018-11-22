@@ -31,7 +31,7 @@ Don't get me wrong, there is a lot to love about the community and I'll be the f
 
 I've got a good idea of how to handle myself when searching for tech positions thanks to the many resources and hours of reading CSCQ. Thanks for the help, but goodbye and good riddance. I submitted nearly a hundred applications and completed over twenty HackerRank screens to land a handful of final round interviews (some of which I failed spectacularly) and an even smaller pool of offers. But I would be lying if I said this process wasn't draining when I observed many members of the CSCQ community effortlessly receive offers like it was nothing.
 
-I couldn't make the jump to a Big 4 this year, [but I couldn't be happier with where I've landed.](https://corp.roblox.com/). 
+I couldn't make the jump to a Big 4 this year, [but I couldn't be happier with where I've landed](https://corp.roblox.com/).
 
 ![ Big 4 Companies ]( /blog/big4.png )*There's no reason for this image to be here. I just thought this was a funny image. Apple definitely got the short end of the stick. Source: [DACGroup](https://www.dacgroup.com/en-gb/blog/todays-big-4-tech-giants-appeal-human-biology-good-health/)*
 
