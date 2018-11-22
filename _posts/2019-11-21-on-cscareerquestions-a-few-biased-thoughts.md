@@ -17,13 +17,13 @@ To some, it's a community plagued by [unrealistic expectations](https://www.redd
 
 ![ Holy Grail ]( /blog/leetcode.png )*Holy Grail*
 
-To many on the subreddit, the individual dreamer's aspirations are discarded as *true* success is only thought to lie in the upper eschelon of tech firms gatekept by the Big 4 and various *hot* unicorn companies such as Uber. Whatever happened to dreaming of working at a video game company or a small medical startup that helps doctors and specialists save lives?
+To many on the subreddit, the individual dreamer's aspirations are discarded as **true** success is only thought to lie in the upper eschelon of tech firms gatekept by the Big 4 and various **hot** unicorn companies such as Uber. Whatever happened to dreaming of working at a video game company or a small medical startup that helps doctors and specialists save lives?
 
-Various stereotypes seem to be upheld by the users, and perhaps there is some truth so some of these stereotypes. Statements such as: [*"[Palantir is] like E-Corp in Mr. Robot."*](https://www.reddit.com/r/cscareerquestions/comments/9w07oy/whats_palantirs_reputation_nowadays/) to [*"All you need to do to get a job is grind Leetcode."*](https://www.reddit.com/r/cscareerquestions/comments/8vng6c/how_much_leetcode_is_enough_people_from_chinese/) are echoed feverishly in Daily Chat threads, comment sections, and rant posts created on a daily basis. That's tech for ya.
+Various stereotypes seem to be upheld by the users, and perhaps there is some truth so some of these stereotypes. Statements such as: [**"[Palantir is] like E-Corp in Mr. Robot."**](https://www.reddit.com/r/cscareerquestions/comments/9w07oy/whats_palantirs_reputation_nowadays/) to [**"All you need to do to get a job is grind Leetcode."**](https://www.reddit.com/r/cscareerquestions/comments/8vng6c/how_much_leetcode_is_enough_people_from_chinese/) are echoed feverishly in Daily Chat threads, comment sections, and rant posts created on a daily basis. That's tech for ya.
 
-As with any internet community, there is a tipping point in regards to the truth. CSCQ toes the line and begins to set unrealistic expectations for young software engineers eager to enter a competitive, growing field. It is quite easy to get lost in the weekly [*Big 4 Discussion*](https://www.reddit.com/r/cscareerquestions/comments/9qxgyo/big_4_discussion_october_24_2018/) threads that seem to rank individuals and their life-long success in terms of their company.
+As with any internet community, there is a tipping point in regards to the truth. CSCQ toes the line and begins to set unrealistic expectations for young software engineers eager to enter a competitive, growing field. It is quite easy to get lost in the weekly [**Big 4 Discussion**](https://www.reddit.com/r/cscareerquestions/comments/9qxgyo/big_4_discussion_october_24_2018/) threads that seem to rank individuals and their life-long success in terms of their company.
 
-Perhaps I'm simply too used to being in an environment where min-maxing career ambitions and education is the norm. I'd be inclined to say that it's practically second nature to me to shoot for the stars in terms of tech companies. There's no fault in that, but I would argue that many CSCQ readers get too caught up in amassing offers from unicorns and the struggle of Leetcode practice before thinking about where they'll find more than *interest* at their workplace. Maybe, just maybe, *passion* should come into play more often than *salary*.
+Perhaps I'm simply too used to being in an environment where min-maxing career ambitions and education is the norm. I'd be inclined to say that it's practically second nature to me to shoot for the stars in terms of tech companies. There's no fault in that, but I would argue that many CSCQ readers get too caught up in amassing offers from unicorns and the struggle of Leetcode practice before thinking about where they'll find more than **interest** at their workplace. Maybe, just maybe, **passion** should come into play more often than **salary**.
 
 ![ The upper eschelon ]( /blog/zuckerberg.png )*It doesn't get any better than having Mark Zuckerberg point at the seg fault on your monitor. Source: [BusinessInsider](http://static2.uk.businessinsider.com/image/58ecd113dd08955a7d8b460a/how-facebook-keeps-its-employees-the-happiest-according-to-a-former-insider.jpg)*
 
@@ -39,5 +39,5 @@ Here are some final thoughts:
 1. Take CSCQ (and similar communities) with a grain of salt.
 2. Min-maxing your resume isn't the only way to play the game.
 3. Studying for technical interviews is a pain, but at this point it's necessary so hang on in there.
-4. Working at a Big 4 or Unicorn isn't for *everyone* so don't act like it's the end-all be-all.
+4. Working at a Big 4 or Unicorn isn't for **everyone** so don't act like it's the end-all be-all.
 5. Software engineering is difficult and it's never as effortless as many make it seem.
