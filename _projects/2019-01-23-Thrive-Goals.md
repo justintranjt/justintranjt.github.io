@@ -7,7 +7,7 @@ image: /projects/thriveGoals.png
 ---
 ![]( /projects/thriveSplash.png )*A screenshot from the Splash page of Thrive*
 
-Thrive can be found at http://thrive-goals.herokuapp.com!
+Thrive can be found at [http://thrive-goals.herokuapp.com](http://thrive-goals.herokuapp.com)!
 Note that Thrive is targeted at Princeton University students and is therefore gated by Princeton's CAS authentication server.
 
 # Why build Thrive Goals?
@@ -74,3 +74,5 @@ Our data is fundamentally hierarchical. Goals are nested under parent goals and 
 Each goal object must contain a reference to its subgoal(s) as well as a reference to its single parent goal if it exists, which it doesn’t if we are at the root node. This is how we identify the root node goal object containing the template title. In this sense, each template is itself a “goal object”, specifically the root node of a goal tree, with its parent node set to None. 
 
 Each goal must be unique (even if their titles are the identical). Rather than having object reference data types that would have to be maintained throughout the PostgreSQL database, Flask API, and Vue frontend, we chose to use a unique integer value that could be automatically assigned as a field of each created goal: The time it was created! So, a goal has its own unique time value corresponding to when it was created (in Unix time) that no other goal has.
+
+# What did I learn about web programming and software engineering in general?
