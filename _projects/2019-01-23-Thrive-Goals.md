@@ -22,17 +22,17 @@ Just as importantly, Thrive enables the students to see that they are making pro
 # What main features does Thrive provide?
 ![]( /projects/thriveGoals.png )*A screenshot from the main Goals page of Thrive*
 
-* CAS Login
-* Preloaded Templates
-* Custom Template Creation
-* Template Text Editing
-* Goal Table
-* Subgoal Creation
-* Goal Text Editing
-* Goal Re-prioritization
-* Timers
-* Color Highlighting (Complete, In Progress)
-* Progress Bar
+* • CAS Login
+* • Preloaded Templates
+* • Custom Template Creation
+* • Template Text Editing
+* • Goal Table
+* • Subgoal Creation
+* • Goal Text Editing
+* • Goal Re-prioritization
+* • Timers
+* • Color Highlighting (Complete, In Progress)
+* • Progress Bar
 
 # How was Thrive built?
 ![]( /projects/thriveUML.png )*A simplified UML Diagram of the Thrive tech stack*
