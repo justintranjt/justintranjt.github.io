@@ -90,3 +90,8 @@ Each goal object must contain a reference to its subgoal(s) as well as a referen
 Each goal must be unique (even if their titles are the identical). Rather than having object reference data types that would have to be maintained throughout the PostgreSQL database, Flask API, and Vue frontend, we chose to use a unique integer value that could be automatically assigned as a field of each created goal: The time it was created! So, a goal has its own unique time value corresponding to when it was created (in Unix time) that no other goal has.
 
 # What did I learn about web programming and software engineering in general?
+I'll put it plainly and simply: Too little work for too few engineers leads to trouble and discontent. 
+
+Were parts of this web application difficult to design and implement? Most definitely.
+
+Was this an interesting project to tackle for five students (most of whom had little to no experience with web programming) taking on their first foray into full-stack web programming? Of course.
