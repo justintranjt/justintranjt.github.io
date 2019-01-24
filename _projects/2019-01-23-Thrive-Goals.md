@@ -7,7 +7,7 @@ image: /projects/thriveGoals.png
 ---
 ![]( /projects/thriveSplash.png )*A screenshot from the Splash page of Thrive*
 
-Thrive can be found at [https://thrive-goals.herokuapp.com](https://thrive-goals.herokuapp.com)!
+Thrive can be found at [https://thrive-goals.herokuapp.com](https://thrive-goals.herokuapp.com)! All source code is found on the corresponding [GitHub repo](https://github.com/justintranjt/ThriveGoals).
 Note that Thrive is targeted at Princeton University students and is therefore gated by Princeton's CAS authentication server.
 
 # Why build Thrive Goals?
@@ -21,6 +21,18 @@ Just as importantly, Thrive enables the students to see that they are making pro
 
 # What main features does Thrive provide?
 ![]( /projects/thriveGoals.png )*A screenshot from the main Goals page of Thrive*
+
+* CAS Login
+* Preloaded Templates
+* Custom Template Creation
+* Template Text Editing
+* Goal Table
+* Subgoal Creation
+* Goal Text Editing
+* Goal Re-prioritization
+* Timers
+* Color Highlighting (Complete, In Progress)
+* Progress Bar
 
 # How was Thrive built?
 ![]( /projects/thriveUML.png )*A simplified UML Diagram of the Thrive tech stack*
@@ -67,6 +79,8 @@ Because every goal and subgoal is organized in a table in top-down fashion, user
  
 ## Do we let users create an unlimited number of nested subgoals?
 We had a difficult time deciding if users should be able to infinitely nest their subgoals under top-level goals. Ultimately, we approached this from a standpoint of “What would best benefit somebody trying to organize their thoughts?” We decided that a user may organize their goals/steps towards an assignment with a number of complex and detailed steps but anything more than 2 subgoals attached to a goal could be allotted it’s own top-level goal. This would help the user organize their strategies and avoid making things too complex to follow. Additionally, the user interface begins to lose its aesthetic appeal after three levels of nesting, since the indentation would become excessive. 
+
+![]( /projects/thriveFeatures.png )*A goal containing a singularly nested subgoal*
 
 ## How do we represent each goal uniquely? How do we represent subgoals in relation to their parent goals?
 Our data is fundamentally hierarchical. Goals are nested under parent goals and can themselves have subgoals. Essentially, the goals form a tree. This is not easily represented in a relational database, however using a non-relational database like MongoDB would be difficult since heroku doesn’t have built in support like it does for Postgres. Ultimately, we decided to represent goals as python objects which are converted into JSON Strings for database storage. These “goal objects” enable complicated tree operations while simultaneously being easy to store. 
