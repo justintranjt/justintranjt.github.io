@@ -7,7 +7,7 @@ image: /projects/thriveGoals.png
 ---
 ![]( /projects/thriveSplash.png )*A screenshot from the Splash page of Thrive*
 
-Thrive can be found at [http://thrive-goals.herokuapp.com](http://thrive-goals.herokuapp.com)!
+Thrive can be found at [https://thrive-goals.herokuapp.com](https://thrive-goals.herokuapp.com)!
 Note that Thrive is targeted at Princeton University students and is therefore gated by Princeton's CAS authentication server.
 
 # Why build Thrive Goals?
