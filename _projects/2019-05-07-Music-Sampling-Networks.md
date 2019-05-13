@@ -20,10 +20,7 @@ of graph centrality measurements for determining the influence of a node (repres
 other nodes. 
 
 # What were the results of the research?
-This analysis resulted in a greater understanding of musical influence certain artists
-and genres had over other heavily-sampling artists and genres over time. The most influential genre
-was found to be Funk/Soul/Disco while the most influential artist of all time was James Brown.
-More specific influencers from different time periods were also found.
+This analysis resulted in a greater understanding of musical influence certain artists and genres had over other heavily-sampling artists and genres over time. The most influential genre was found to be Funk/Soul/Disco while the most influential artist of all time was James Brown. However, Hip-Hop/R&B music has unsurprisingly become more sampled than all other genres in recent time periods. In addition, artists from all genres tended to sample from others within their own genre, essentially displaying strong intra-genre influences.
 
 # Where can I find the most pivotal details?
 
