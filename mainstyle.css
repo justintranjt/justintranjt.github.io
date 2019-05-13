@@ -114,17 +114,22 @@ ul {
 	a.namebrand {
 		font-size: 50px;
 	}
+
+	.blinking {
+		font-size: 50px;
+	}
  }
 
  /* Blinking terminal text */
-.blinking{
-	animation:blinkingText 0.8s infinite;
+.blinking {
+	animation:blinkingText 3s infinite;
+	font-size: 5vw;
 }
 
-@keyframes blinkingText{
-	0% {color: #000;}
+@keyframes blinkingText {
+	0% {color: #ffc300;}
 	49%{color: transparent;}
 	50%{color: transparent;}
-	99%{color:transparent;}
-	100%{color: #000;}
+	99%{color: #ffc300;}
+	100%{color: #ffc300;}
 }
