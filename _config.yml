@@ -1,6 +1,8 @@
 name: Justin Tran
 description: Justin Tran's Blog Posts and Projects
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
 highlighter: rouge
 collections:
   posts:
