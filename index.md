@@ -13,7 +13,7 @@ Ever since I picked up my first Game Boy Color as a young child, I have always l
 
 Whether those interests are related to [analyzing musical sampling patterns with network analysis](https://justintranjt.me/projects/2019-05-07-Music-Sampling-Networks/) or investigating the [effects of nature conservation in Namibia](https://justintranjt.github.io/research/), everything can be broken down and analyzed.
 
-Today, my time is divided among developing projects that stimulate my mind (with Android Apps as the next bullet on my list), cheering for the Portland Trail Blazers, and searching for my next odd hobby to take up.
+Today, my time is divided among developing projects that stimulate my mind (with Android Apps as the next bullet on my list), cheering for the [Portland Trail Blazers](https://thefader-res.cloudinary.com/private_images/w_1260,c_limit,f_auto,q_auto:best/D46OaxbW0AA0mbU_hteq5o/damian-lillard-portland-trail-blazers-game-winner-blog.jpg), and tinkering with [mechanical keyboards](https://www.reddit.com/r/MechanicalKeyboards/).
 
 In the past, I've poured my energy into building the eSports community at Princeton University as the President of [Princeton eSports](https://www.facebook.com/groups/ptonesports/), tested the latest [Android ROMs and Kernels](https://forum.xda-developers.com/google-nexus-5) (at the time), and contributed to the [crash routing protocols at Aidoc Medical](https://justintranjt.me/projects/2018-08-31-POC/).
 
