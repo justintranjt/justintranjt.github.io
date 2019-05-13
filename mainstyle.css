@@ -12,9 +12,10 @@ body {
 
 .banner {
     background-color: #242424;
-    height: 220px;
-    width: 100%;
-    position: relative;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
 }
 
 a:link, a:visited, a.namebrand {
@@ -28,16 +29,10 @@ a:link, a:visited, a.namebrand {
 }
 
 a.namebrand {
-  z-index: 100;
-  position: absolute;
-  left: 36%;
-  top: 33%;
   font-size: 5vw; 
 }
 
 .container {
-    align-items: center;
-    background-color: #424242;
     color: white;
     display: flex;
     flex-direction: column;
@@ -117,8 +112,6 @@ ul {
  	}
 	
 	a.namebrand {
- 		left: 15%;
  		font-size: 50px;
- 		text-align:center;
  	}
  }
