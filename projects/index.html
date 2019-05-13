@@ -8,6 +8,7 @@ title: JT - Coding Projects
         <li class ="indivpost">
             <img class="post-thumb" src="{{ project.image }}"></img>
             <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
+            <p> {{ project.date|date: "%B %d, %Y" }} </p>
             <p>{{ project.description }}</p>
         </li>
     {% endfor %}
