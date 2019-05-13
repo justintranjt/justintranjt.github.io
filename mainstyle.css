@@ -12,16 +12,9 @@ body {
 
 .banner {
     background-color: #242424;
-    height: 357px;
+    height: 220px;
     width: 100%;
     position: relative;
-}
-
-.bannerpic {
-    position: absolute;
-    left: 0;
-    top: 0;
-    opacity: 0.65;
 }
 
 a:link, a:visited, a.namebrand {
