@@ -24,6 +24,8 @@ This analysis resulted in a greater understanding of musical influence certain a
 
 # Where can I find the most pivotal details?
 
+All code can be found in the [Github repo](https://github.com/justintranjt/music-sampling-networks).
+
 The full paper can be found [here](https://justintranjt.me/research/music_sampling_networks.pdf).
 
 The slide deck for a quick summary can be found [here](https://justintranjt.me/research/presentation.pdf).
