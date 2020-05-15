@@ -4,7 +4,7 @@ title: JT - Coding Projects
 ---
 <h1>Coding Projects</h1>
 <ul>
-    {% for project in site.projects %}
+    {% for project in site.projects reversed %}
         <li class ="indivpost">
             <img class="post-thumb" src="{{ project.image }}"></img>
             <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2020: A Princeton Space Odyssey (Node.js + WebPack)"
+title: "2020: A Princeton Space Odyssey (JavaScript/Node.js + WebPack)"
 date: 2020-05-14
 description: A space exploration arcade game built with Node.js and graphics library three.js along with physics from cannon.js.
 image: /projects/hud.jpg

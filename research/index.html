@@ -2,12 +2,13 @@
 layout: default
 title: JT - Research
 ---
+
 <h1>Research</h1>
-{% for resrch in site.research %}
-    <ul class="indivpost">
-        <li>
-            <h2><a href="{{ resrch.link }}">{{ resrch.title }}</a></h2>
-            <p>{{ resrch.description }}</p>
-        </li>
-    </ul>
+{% for resrch in site.research reversed %}
+<ul class="indivpost">
+  <li>
+    <h2><a href="{{ resrch.link }}">{{ resrch.title }}</a></h2>
+    <p>{{ resrch.description }}</p>
+  </li>
+</ul>
 {% endfor %}
