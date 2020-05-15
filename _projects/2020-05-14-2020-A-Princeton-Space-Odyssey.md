@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "2020: A Princeton Space Odyssey"
+title: "2020: A Princeton Space Odyssey (Node.js + WebPack)"
 date: 2020-05-14
 description: A space exploration arcade game built with Node.js and graphics library three.js along with physics from cannon.js.
 image: /projects/hud.jpg
 ---
 
-![2020: A Princeton Space Odyssey's introductory Menu screen](/projects/menu.jpg)
+![2020: A Princeton Space Odyssey's introductory Menu screen](/projects/menu.png)
 
 # Introduction
 
-[Play "2020: A Princeton Space Odyssey"!](https://teferiemmanuel.github.io/2020-A-Princeton-Space-Odyssey/)
+## [Play "2020: A Princeton Space Odyssey"](https://teferiemmanuel.github.io/2020-A-Princeton-Space-Odyssey/)
 
 The year is 2020, and you are stranded in outer space, far far away from home. To get home you must travel through a series of wormholes. But here’s the catch, you need fuel to travel through these wormholes.
 
