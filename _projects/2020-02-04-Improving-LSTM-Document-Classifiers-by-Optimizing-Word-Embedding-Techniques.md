@@ -3,10 +3,10 @@ layout: post
 title: "Improving LSTM Document Classifiers by Optimizing Word Embedding Techniques (Python, PyTorch)"
 date: 2020-02-04
 description: A modified and improved deep learning model for document classification using ELMo word embeddings and a novel dropout scheme to improve classification accuracy.
-image: /projects/dropout.jpg
+image: /projects/dropout.png
 ---
 
-![Our novel Partial Embedding Dropout scheme](/projects/dropout.jpg)
+![Our novel Partial Embedding Dropout scheme](/projects/dropout.png)
 
 # What did we try to improve with this document classifier?
 
