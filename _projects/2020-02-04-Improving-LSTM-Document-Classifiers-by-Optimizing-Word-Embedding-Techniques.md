@@ -6,7 +6,7 @@ description: A modified and improved deep learning model for document classifica
 image: /projects/dropout.png
 ---
 
-![A summary of our work and findings](/projects/COS484PresentationSlides.png)
+![A summary of our work and findings](/research/COS484PresentationSlides.png)
 
 # What did we try to improve with this document classifier?
 
