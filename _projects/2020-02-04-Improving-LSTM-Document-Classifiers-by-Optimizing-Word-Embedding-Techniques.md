@@ -6,7 +6,7 @@ description: A modified and improved deep learning model for document classifica
 image: /projects/dropout.png
 ---
 
-![Our novel Partial Embedding Dropout scheme](/projects/dropout.png)
+![A summary of our work and findings](/projects/COS484PresentationSlides.png)
 
 # What did we try to improve with this document classifier?
 
@@ -20,6 +20,8 @@ For a nice introduction to word embeddings and ELMo, please refer to [this amazi
 Essentially, it should give more granularity and detail to our data set.
 
 # What were the results of the research?
+
+![Our novel Partial Embedding Dropout scheme](/projects/dropout.png)
 
 For greater detail, please check out our official paper below. Here's a quick summary of the results though: Partial embedding dropout was a success and provided greater accuracy but the introduction of contextualized ELMo
 word embeddings was disappointing, increasing train times substantially while offering diminished performance.
