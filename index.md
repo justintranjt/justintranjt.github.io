@@ -4,7 +4,7 @@ title: JT - Home Page
 ---
 
 <h1>About Me</h1>
-<p class="meta">Updated May 12, 2019 11:39 PM | By Justin Tran</p>
+<p class="meta">Updated May 12, 2020 11:39 PM | By Justin Tran</p>
 
 Welcome to my page! I'm a computer scientist by education, a software engineer by trade, a Princeton alum, and an Oregonian from the day I was born. Here is some background on my interests and motivations:
 
