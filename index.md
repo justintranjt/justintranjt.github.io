@@ -6,7 +6,7 @@ title: JT - Home Page
 <h1>About Me</h1>
 <p class="meta">Updated May 12, 2020 11:39 PM | By Justin Tran</p>
 
-Welcome to my page! I'm a Princeton computer scientist by education, a software engineer by trade, and an Oregonian from the day I was born. Here is some background on my interests and motivations:
+Welcome to my page! I graduated from Princeton University in 2020 with a degree in Computer Science and a certificate in Asian American Studies. I'm a Princeton computer scientist by education, a software engineer by trade, and an Oregonian from the day I was born. Here is some background on my interests and motivations:
 
 ![Sevilla](/spainProfile.jpg)_Walking through Plaza de España (Seville, Spain)_
 
