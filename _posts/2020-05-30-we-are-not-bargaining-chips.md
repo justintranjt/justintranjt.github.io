@@ -56,6 +56,6 @@ Stay true to who you are and use your place in society to start doing something 
 
 Going the extra mile and attempting to put yourself on the line or educate others about these inequalities is difficult. Let’s be real, I don’t think this is going to get across to many older generations of Americans due to the ingrained cultural values they’ve lived through and even helped create. However, this is our chance to effectively educate our peers and future generations.
 
-Most of my readers are highly educated individuals so let's go out there and do what we do best, educate and be educated.
+Most of my readers are highly educated individuals so let's go out there and do what we do best: Educate and be educated.
 
 I get it, it’s hard. Hell, I've never felt that my voice has any validity to it when speaking on these issues but I recognize that others falsely feel the same way. But you know what? I’ll try to start using my voice if you do too.
