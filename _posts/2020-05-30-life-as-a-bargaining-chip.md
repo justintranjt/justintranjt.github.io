@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Life as a Bargaining Chip"
+title: "We're Not Bargaining Chips"
 date: 2020-05-30
 description: Ramblings of a a recent university graduate in a year of madness predicated by centuries of hate.
 image: /blog/blackflag.jpg
 ---
+This post is a departure from the usual content found on my personal website. All thoughts and opinions are my own and not the views of my employer or institution.
 
 ![ HK protestor waving the black bauhinia flag ](/blog/blackflag.jpg)_Anthony Kwan — Getty Images_
 
 # On Drawing Similarities Between the Suppressed Rights of Hong Kongers and POCs in America:
-As a Cantonese-Vietnamese man in the United States, my entire identity these days has been reduced to acting as a bargaining chip in the world. Is that so unexpected given the history surrounding my existence? Not in the slightest.
+As a child of Cantonese-Vietnamese immigrants in the United States, my entire identity in mainstream rhetoric these days has been reduced to acting as a bargaining chip in the world. Is that so unexpected given the history surrounding my existence? Not in the slightest.
 
 In Hong Kong, my people demand their rights to freedom from the Community Party of China but are only used by the United States government [as nothing more than a tool to up the ante during trade wars](https://www.bbc.com/news/world-us-canada-52856876). In the United States I stand on the margins, unsure of what the role of the Asian American is as many seek justice for George Floyd and the many Black Americans that have been condemned to unjust living as a result of the police and government. 
 
@@ -50,4 +51,6 @@ Stay true to who you are and use your place in society to start doing something 
 
 Going the extra mile and attempting to put yourself on the line or educate others about these inequalities is difficult. Let’s be real, I don’t think this is going to get across to many older generations of Americans due to the ingrained cultural values they’ve lived through and even helped create. However, this is our chance to effectively educate our peers and future generations. 
 
-I get it, it’s hard. Hell, I've never felt that my voice has any validity to it when speaking on these issues but I recognize that others falsely feel the same way. I’ll try to start using my voice if you do too. 
+Most of my readers are highly educated individuals so let's go out there and do what we do best, educate and be educated.
+
+I get it, it’s hard. Hell, I've never felt that my voice has any validity to it when speaking on these issues but I recognize that others falsely feel the same way. But you know what? I’ll try to start using my voice if you do too.
