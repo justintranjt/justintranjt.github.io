@@ -6,11 +6,13 @@ title: JT - Home Page
 <h1>About Me</h1>
 <p class="meta">Updated May 12, 2020 11:39 PM | By Justin Tran</p>
 
-Welcome to my page! I graduated from Princeton University in 2020 with a degree in Computer Science and a certificate in Asian American Studies. I'm a computer scientist by education, a software engineer by trade, and an Oregonian from the day I was born. Here is some background on my interests and motivations:
+Welcome to my page! I'm currently a Senior Software Engineer at Roblox on the Developer Monetization team where I work with all things related to Robux, the platform's virtual currency! I graduated from Princeton University in 2020 with a degree in Computer Science and a certificate in Asian American Studies.
+
+I'm a computer scientist by education, a software engineer by trade, and an Oregonian from the day I was born. Here is some background on my interests and motivations:
 
 ![Sevilla](/spainProfile.jpg)_Walking through Plaza de España (Seville, Spain)_
 
-Ever since I picked up my first Game Boy Color as a young child, I have always loved gaming and technology. I not only continued to enjoy gaming, but also used it as an inspiration to throw myself fully into programming in the hopes that I could inspire users the same way I was inspired from a young age. Today, I hope to use that passion as a developer to explore the many odd categories of the world that interest me.
+Ever since I picked up my first Game Boy Color as a young child, I have always loved gaming and technology. I not only continued to enjoy gaming, but also used it as an inspiration to throw myself fully into programming in the hopes that I could inspire users the same way I was inspired from a young age. Today, I hope to use that passion as a developer to explore the many odd categories of the world that interest me. Currently, that odd category includes payment processing systems and financial technology which are direct extensions of my day-to-day domain at work!
 
 Whether those interests are related to [analyzing musical sampling patterns with network analysis](https://justintranjt.me/projects/2019-05-07-Music-Sampling-Networks/) or investigating the [effects of nature conservation in Namibia](https://justintranjt.github.io/research/), everything can be broken down and analyzed.
 
