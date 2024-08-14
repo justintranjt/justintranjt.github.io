@@ -4,7 +4,7 @@ title: JT - Home Page
 ---
 
 <h1>About Me</h1>
-<p class="meta">Updated May 12, 2020 11:39 PM | By Justin Tran</p>
+<p class="meta">Updated August 14, 2024 2:12 PM | By Justin Tran</p>
 
 Welcome to my page! I'm currently a Senior Software Engineer at Roblox on the Developer Monetization team where I work with all things related to Robux, the platform's virtual currency! I graduated from Princeton University in 2020 with a degree in Computer Science and a certificate in Asian American Studies.
 
